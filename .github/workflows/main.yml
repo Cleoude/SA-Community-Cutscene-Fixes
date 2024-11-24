@@ -31,7 +31,6 @@ jobs:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag: latest
-          doNotFailIfNotFound: true
 
       - name: Upload Release
         uses: ncipollo/release-action@v1.12.0
