@@ -12,6 +12,23 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Download Vanilla Assets
+        uses: i3h/download-release-asset@v1
+        with:
+          owner: ${{ github.repository_owner }}
+          repo: ${{ github.event.repository.name }}
+          tag: data
+          file: sa_cuts.7z
+          path: .resources/.sa
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Extract Vanilla Assets
+        shell: cmd
+        run: |
+          cd .resources/.sa
+          7z x sa_cuts.7z -aoa -o../../
+          cd ../..
+
       - name: Build All
         shell: cmd
         run: build_all.bat
@@ -22,7 +39,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SACCF.7z'
-          exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md .cuts'
+          exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md'
 
       - name: Get Release Info
         id: release_info
