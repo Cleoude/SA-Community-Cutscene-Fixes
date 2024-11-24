@@ -1,2 +1,0 @@
-IDE DATA\MAPS\prolog.IDE
-COLFILE 0 DATA\MAPS\prolog.col
