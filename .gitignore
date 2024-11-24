@@ -1,10 +1,10 @@
 # IMGs
 anim/cuts.img
 
-# Vanilla Cutscenes
-#.cdimages/cuts_img/sa_cuts/*.cut
-#.cdimages/cuts_img/sa_cuts/*.dat
-#.cdimages/cuts_img/sa_cuts/*.ifp
-#.cdimages/cuts_img/sa_cuts/*.CUT
-#.cdimages/cuts_img/sa_cuts/*.DAT
-#.cdimages/cuts_img/sa_cuts/*.IFP
+ Vanilla Cutscenes
+.cdimages/cuts_img/sa_cuts/*.cut
+.cdimages/cuts_img/sa_cuts/*.dat
+.cdimages/cuts_img/sa_cuts/*.ifp
+.cdimages/cuts_img/sa_cuts/*.CUT
+.cdimages/cuts_img/sa_cuts/*.DAT
+.cdimages/cuts_img/sa_cuts/*.IFP
