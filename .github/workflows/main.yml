@@ -1,0 +1,43 @@
+name: Upload Release
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-2022
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build All
+        shell: cmd
+        run: build_all.bat
+
+      - name: Pack All
+        uses: Cleoude/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'SACCF.7z'
+          exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md .cuts'
+
+      - name: Get release info
+        id: release_info
+        uses: cardinalby/git-get-release-action@1.2.4
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag: latest
+
+      - name: Upload Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          allowUpdates: true
+          name: ${{ steps.release_info.outputs.name }}
+          body: ${{ steps.release_info.outputs.body }}
+          tag: ${{ steps.release_info.outputs.tag_name }}
+          artifacts: SACCF.7z
