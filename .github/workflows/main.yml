@@ -17,7 +17,7 @@ jobs:
         run: build_all.bat
 
       - name: Pack All
-        uses: Cleoude/zip-release@master
+        uses: ThirteenAG/zip-release@master
         with:
           path: ./*
           type: 'zip'
