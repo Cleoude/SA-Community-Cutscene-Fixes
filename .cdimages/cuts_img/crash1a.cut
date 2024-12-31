@@ -1,0 +1,52 @@
+info
+offset 377.707 -193.468 999.636
+end
+model
+1, cscup, cscup
+1, cscup2, cscup2
+1, cscup2, cscup2-1
+1, cshernandez, cshernandez
+1, csplay, csplay
+1, cspulaski, cspulaski
+1, cstenpenny, cstenpenny
+1, csdonut1, csdonut1
+1, cscigarette, cscigarette
+1, csaddress, csaddress
+1, csashtray, csashtray
+1, csdonuts, csdonuts
+end
+extracol
+4
+end
+text
+836,2107,CRA1a00
+2900,2500,CRA1a22
+13300,2395,CRA1a01
+19667,2219,CRA1a02
+22442,2467,CRA1a03
+25217,1777,CRA1a04
+27318,2611,CRA1a05
+31862,4706,CRA1a06
+37197,2049,CRA1a07
+39334,2002,CRA1a08
+41911,851,CRA1a09
+43573,1519,CRA1a10
+45162,1344,CRA1a11
+48656,2050,CRA1a12
+50874,1615,CRA1a13
+52688,1343,CRA1a14
+55193,5492,CRA1a15
+60779,2486,CRA1a16
+65521,2429,CRA1a17
+68098,1505,CRA1a18
+70173,1208,CRA1a19
+end
+peffect
+cigarette_smoke,0,-1,2,dumcofsmoke,0.0,0.0,0.0,0.0,0.0,-1.0
+cigarette_smoke,0,-1,3,dumcofsmoke,0.0,0.0,0.0,0.0,0.0,-1.0
+cigarette_smoke,0,-1,9,dumcigsmoke,0.0,0.0,0.0,0.0,0.0,-1.0
+end
+uncompress
+cstenpenny
+end
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

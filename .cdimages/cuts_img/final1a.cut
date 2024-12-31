@@ -1,0 +1,65 @@
+info
+offset 2523.750000 -1680.219971 1014.500100
+end
+model
+1, cscigrydr3, cscigrydr3
+1, CSplay, CSplay
+1, CsRyder4, CsRyder4
+1, CSsmoke4, CSsmoke4
+1, CSsweet6, CSsweet6
+1, CsFridge, CsFridge
+1, CsTableLosweet3a, CsTableLosweet3a
+1, cstable, cstable
+1, CsWallphone, CsWallphone
+1, CsChair, CsChair-1
+1, CsChair, CsChair-2
+1, CsChair, CsChair-3
+1, cscigglow, cscigglow
+end
+extracol
+12
+end
+text
+5167,1614,FIN1a15
+8216,1031,FIN1a16
+9559,772,FIN1a00
+10435,818,FIN1a17
+10861,840,FIN1a01
+11982,3407,FIN1a02
+16074,3060,FIN1a03
+19369,594,FIN1a04
+20177,2333,FIN1a05
+22676,2959,FIN1a06
+25983,1670,FIN1a07
+28079,2757,FIN1a08
+31072,2454,FIN1a09
+34177,1771,FIN1a10
+36210,2233,FIN1a11
+38733,571,FIN1a18
+39456,1647,FIN1a12
+41379,2773,FIN1a13
+43985,1300,FIN1a14
+45274,907,FIN1a19
+46025,986,FIN1a20
+end
+uncompress
+end
+motion
+range off
+quick off
+CsCig3:Root(tag0),2
+csplay_x:root,1
+csryder_x:root,1
+cssmoke_x:root,1
+cssweet_x:root,1
+CsFridge:Root,0
+CsTable:Root,0
+CsTableLo:Root,0
+CsChair:Root,0
+CsChair2:Root,0
+end
+peffect
+cigarette_smoke,0,-1,1,3,0.0,0.0,0.0,0.0,0.0,-1.0
+end
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
