@@ -11,6 +11,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      
+      - name: Pack Extras
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'SACCF-Extras.7z'
+          exclusions: '.git .github .resources .ipls models modloader scripts .cdimages build_all.bat readme.md'
 
       - name: Download Vanilla Assets
         uses: i3h/download-release-asset@v1
@@ -40,14 +48,6 @@ jobs:
           type: 'zip'
           filename: 'SACCF.7z'
           exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md'
-          
-      - name: Pack Extras
-        uses: ThirteenAG/zip-release@master
-        with:
-          path: ./*
-          type: 'zip'
-          filename: 'SACCF-Extras.7z'
-          exclusions: '.git .github .resources .ipls models modloader scripts .cdimages build_all.bat readme.md'
 
       - name: Get Release Info
         id: release_info
