@@ -40,6 +40,14 @@ jobs:
           type: 'zip'
           filename: 'SACCF.7z'
           exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md'
+          
+      - name: Pack Extras
+        uses: ThirteenAG/zip-release@master
+        with:
+          path: ./*
+          type: 'zip'
+          filename: 'SACCF.Extras.7z'
+          exclusions: '.git .github .resources .ipls models modloader scripts .cdimages build_all.bat readme.md'
 
       - name: Get Release Info
         id: release_info
@@ -57,4 +65,4 @@ jobs:
           name: ${{ steps.release_info.outputs.name }}
           body: ${{ steps.release_info.outputs.body }}
           tag: ${{ steps.release_info.outputs.tag_name }}
-          artifacts: SACCF.7z
+          artifacts: SACCF.7z, SACCF-Extras.7z
