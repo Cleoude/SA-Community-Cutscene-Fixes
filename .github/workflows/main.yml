@@ -47,7 +47,7 @@ jobs:
           path: ./*
           type: 'zip'
           filename: 'SACCF.7z'
-          exclusions: '.git .github .resources .ipls .cdimages build_all.bat readme.md'
+          exclusions: '.git .github .resources .cdimages .ipls extras SACCF-Extras.7z build_all.bat readme.md'
 
       - name: Get Release Info
         id: release_info
