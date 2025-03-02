@@ -30,79 +30,79 @@
 # Credits:
 
 **Cleoude**
-Cutscene Fixes
-Scripts
-Cutscene Vehicles
-Hernandez's Ear Fix
-Pulaski's Arm Texture Fix
-Taxi Driver Model
-CJ's Mom's Photo
-Cutscene Models
-Mobile Hands Support
-New Effects
-Animation Fixes
+- Cutscene Fixes
+- Scripts
+- Cutscene Vehicles
+- Hernandez's Ear Fix
+- Pulaski's Arm Texture Fix
+- Taxi Driver Model
+- CJ's Mom's Photo
+- Cutscene Models
+- Mobile Hands Support
+- New Effects
+- Animation Fixes
 
 **brooklynzsmac**
-Stewardess
-Beta OGs
-Families & Ballas and Other Gangs
-Freddy
-Beer Bottle
-Donut Vendor
-Grass
-Kane
-Gore Cop
-Sweet Wounded
+- Stewardess
+- Beta OGs
+- Families & Ballas and Other Gangs
+- Freddy
+- Beer Bottle
+- Donut Vendor
+- Grass
+- Kane
+- Gore Cop
+- Sweet Wounded
 
 **deadman23**
-Cutscene Peds
+- Cutscene Peds
 
 **Shimada**
-Cutscene Vehicles
+- Cutscene Vehicles
 
 **Pyltham**
-2dfx Sirens 
-Prelight Fixes
-Models
+- 2dfx Sirens 
+- Prelight Fixes
+- Models
 
 **TareqGamer**
-Sweet Wounded
+- Sweet Wounded
 
 **MisterA**
-Support & Analyst
+- Support & Analyst
 
 **Masked Man**
-Improved textures
+- Improved textures
 
 **SAMP Team** 
-Handcuff Model
-Some Cutscene Objects
+- Handcuff Model
+- Some Cutscene Objects
  
 **Yhdf**
-Cutscene Bat
+- Cutscene Bat
 
 **CarlJohnson(CJ)**
-Kane
-Balman
+- Kane
+- Balman
 
 **Matt1010**
-Artwork Smoke
+- Artwork Smoke
 
 **xcold**
-Colt45
+- Colt45
 
 **Kalvin**
-Beta OGs
-Alan
+- Beta OGs
+- Alan
 
 **139andlennox**
-Vagos & Vla
+- Vagos & Vla
 
 **Bloodriver**
-Exhaust Effect
+- Exhaust Effect
 
 **DoctorMike**
-Voice AI
+- Voice AI
 
 **Arturo Casasnovas**
-Eating & Smoking Anim
+- Eating & Smoking Anim
