@@ -20,8 +20,9 @@
 ### Download: [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases)
 ### Download: [CLEO](https://cleo.li/)
 ### Download: [CLEO+](https://github.com/JuniorDjjr/CLEOPlus/releases/tag/v1.2.0)
-### Download: [NewOpcodes]()
+### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
 ### Download: [Mobile Hands](https://gtaforums.com/topic/752981-sa-mobile-hands/)
+### Download: [CCF-Audio.7z](https://drive.google.com/file/d/1e8ts0bzk5dOACm7d_4oxx-xrO9-9ah4c/view?usp=sharing)
 
 
 
@@ -67,6 +68,7 @@
 
 **TareqGamer**
 - Sweet Wounded
+- Tdb3 head model
 
 **MisterA**
 - Support & Analyst
