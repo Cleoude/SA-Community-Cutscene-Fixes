@@ -26,7 +26,7 @@
 
 
 
-### [Changelog]()
+### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
 
 # Credits:
 
