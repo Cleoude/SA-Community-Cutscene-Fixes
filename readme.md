@@ -88,7 +88,7 @@
 - Improved textures
 
 **ICantReadYourMind**
-ModelVariations Support
+- ModelVariations Support
 
 **SAMP Team** 
 - Handcuff Model
