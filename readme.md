@@ -2,7 +2,7 @@
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/logo.png" alt="CCF-Logo">
 </p>
 
-> **SA Community Cutscene Fixes (or CCF) is a modification for Grand Theft Auto: San Andreas that aims to fix and improve all cutscenes and gameplay in a more advanced way.** 
+> **SA Community Cutscene Fixes (or SACCF) is a modification for Grand Theft Auto: San Andreas that aims to fix and improve all cutscenes and gameplay in a more advanced way.** 
 
 # Requirements:
 
