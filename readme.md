@@ -87,6 +87,9 @@
 **Masked Man**
 - Improved textures
 
+**ICantReadYourMind**
+ModelVariations Support
+
 **SAMP Team** 
 - Handcuff Model
 - Some Cutscene Objects
@@ -119,3 +122,8 @@
 
 **Arturo Casasnovas**
 - Eating & Smoking Anim
+
+# Big Thanks to:
+
+**ViperJohnGR**
+- ModelVariations
