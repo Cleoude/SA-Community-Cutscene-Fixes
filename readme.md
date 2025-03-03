@@ -15,7 +15,7 @@
 - Effect Loader
 - PedSpec
 - ModelVariations
-- Mobile Hands (optional)
+- Mobile Hands
 
 # Essentials:
 
@@ -23,14 +23,17 @@
 ### Download: [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
 ### Download: [CLEO+](https://github.com/JuniorDjjr/CLEOPlus/releases/tag/v1.2.0)
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
+### Download: [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 ### Download: [Mobile Hands](https://gtaforums.com/topic/752981-sa-mobile-hands/)
-#
-### Download: [Community Cutscene Fixes)](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF.7z)
-### Download: [Community Cutscene Audio](https://drive.google.com/file/d/1e8ts0bzk5dOACm7d_4oxx-xrO9-9ah4c/view?usp=sharing)
-#
-### Download: [Community Cutscene Fixes - Extras](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF-Extras.7z)
+
+# Latest Release:
+
+### Download: [Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF.7z)
+### Download: [Cutscene Audio](https://drive.google.com/file/d/1e8ts0bzk5dOACm7d_4oxx-xrO9-9ah4c/view?usp=sharing)
+### Download: [Cutscene Fixes - Extras](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF-Extras.7z)
 #
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
+#
 
 # Credits:
 
