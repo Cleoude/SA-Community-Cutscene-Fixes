@@ -1,7 +1,18 @@
 #
-# Criado por Junior_Djjr - JuniorDjjr.blogspot.com
+# filename:  animgrp.dat
+# description:	This file describes the anim association groups. 
 #
-
+#format is
+# name, filename, animtype, numanims
+#  animlist....
+#end
+#
+# name: 	name of animation definition group
+# filename:	name of file in which these animations occur (minus the IFP extension)
+# animtype:	type of animations (currently only one type, walkcycle, currently looking to expand this list 
+#		to include weapons
+# numanims:	number of animations in groups
+#
 man, ped, walkcycle, 6
 	walk_civi 
 	run_civi
@@ -13,15 +24,15 @@ end
 
 shuffle, ped, walkcycle, 6
 	WALK_shuffle
-	run_fatold
-	run_fatold
+	RUN_civi
+	sprint_panic
 	IDLE_STANCE
 	roadcross
 	walk_start
 end
 
 oldman, ped, walkcycle, 6
-	WALK_fatold
+	walk_old
 	run_old
 	run_old
 	idlestance_old
@@ -76,11 +87,11 @@ end
 
 drunkman, ped, walkcycle, 6
 	walk_drunk
-	walk_drunk
-	walk_drunk
-	XPRESSscratch
-	XPRESSscratch
-	Player_Sneak_walkstart
+	run_civi
+	sprint_panic
+	idle_stance
+	roadcross
+	walk_start
 end
 
 blindman, ped, walkcycle, 6
@@ -101,7 +112,9 @@ swat, ped, walkcycle, 6
 	walk_start
 end
 
-
+#
+# Women anim groups
+#
 woman, ped, walkcycle, 6
 	woman_walknorm
 	woman_run
@@ -148,11 +161,11 @@ pro, ped, walkcycle, 6
 end
 
 oldwoman, ped, walkcycle, 6
-	woman_walkshop
-	run_fatold
-	run_fatold
+	woman_walkold
+	WOMAN_runbusy
+	WOMAN_runbusy
 	woman_idlestance
-	roadcross_old
+	roadcross_female
 	walk_start
 end
 
@@ -176,14 +189,16 @@ end
 
 oldfatwoman, ped, walkcycle, 6
 	woman_walkfatold
-	run_old
-	run_old
+	run_fatold
+	run_fatold
 	woman_idlestance
 	roadcross_female
 	walk_start
 end
 
-
+#
+# Miscellaneous
+#
 skate, skate, walkcycle, 6
 	skate_run
 	skate_sprint
