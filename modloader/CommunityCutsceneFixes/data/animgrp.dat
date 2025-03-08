@@ -1,0 +1,194 @@
+#
+# Criado por Junior_Djjr - JuniorDjjr.blogspot.com
+#
+
+man, ped, walkcycle, 6
+	walk_civi 
+	run_civi
+	sprint_panic
+	idle_stance
+	roadcross
+	walk_start
+end
+
+shuffle, ped, walkcycle, 6
+	WALK_shuffle
+	run_fatold
+	run_fatold
+	IDLE_STANCE
+	roadcross
+	walk_start
+end
+
+oldman, ped, walkcycle, 6
+	WALK_fatold
+	run_old
+	run_old
+	idlestance_old
+	roadcross_old
+	walk_start
+end
+
+gang1, ped, walkcycle, 6
+	walk_gang1
+	run_gang1
+	sprint_panic
+	idle_gang1
+	roadcross_gang
+	walk_start
+end
+
+gang2, ped, walkcycle, 6
+	walk_gang2
+	run_gang1
+	sprint_panic
+	idle_gang1
+	roadcross_gang
+	walk_start
+end
+
+oldfatman, ped, walkcycle, 6
+	walk_fatold
+	run_fatold
+	run_fatold
+	idle_stance
+	roadcross
+	walk_start
+end
+
+fatman, ped, walkcycle, 6
+	walk_fat
+	run_fat
+	run_fat
+	Idlestance_fat
+	roadcross
+	walk_start
+end
+
+jogger, ped, walkcycle, 6
+	JOG_maleA
+	run_civi
+	sprint_civi
+	idle_stance
+	roadcross
+	walk_start
+end
+
+drunkman, ped, walkcycle, 6
+	walk_drunk
+	walk_drunk
+	walk_drunk
+	XPRESSscratch
+	XPRESSscratch
+	Player_Sneak_walkstart
+end
+
+blindman, ped, walkcycle, 6
+	Walk_Wuzi
+	run_wuzi
+	sprint_wuzi
+	idle_stance
+	roadcross
+	walk_start
+end
+
+swat, ped, walkcycle, 6
+	walk_civi 
+	swat_run
+	sprint_civi
+	idle_stance
+	roadcross
+	walk_start
+end
+
+
+woman, ped, walkcycle, 6
+	woman_walknorm
+	woman_run
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+shopping, ped, walkcycle, 6
+	woman_walkshop
+	run_fatold
+	run_fatold
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+busywoman, ped, walkcycle, 6
+	woman_walkbusy
+	woman_runbusy
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+sexywoman, ped, walkcycle, 6
+	woman_walksexy
+	woman_runsexy
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+pro, ped, walkcycle, 6
+	WOMAN_walkpro
+	woman_runsexy
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+oldwoman, ped, walkcycle, 6
+	woman_walkshop
+	run_fatold
+	run_fatold
+	woman_idlestance
+	roadcross_old
+	walk_start
+end
+
+fatwoman, ped, walkcycle, 6
+	walk_fat
+	woman_run
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+jogwoman, ped, walkcycle, 6
+	JOG_femaleA
+	woman_run
+	woman_runpanic
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+oldfatwoman, ped, walkcycle, 6
+	woman_walkfatold
+	run_old
+	run_old
+	woman_idlestance
+	roadcross_female
+	walk_start
+end
+
+
+skate, skate, walkcycle, 6
+	skate_run
+	skate_sprint
+	skate_sprint
+	skate_idle
+	skate_idle
+	skate_idle
+end
