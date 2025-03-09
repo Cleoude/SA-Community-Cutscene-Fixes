@@ -1,0 +1,58 @@
+Starting fastman92 limit adjuster 6.5, compilation time: May 14 2022 15:55:55 (UTC)
+Website: http://fastman92.com
+
+Launch time: 9-3-2025 20:29:21 (UTC), 17:29 (local)
+Launched during the day.
+
+Solution platform: WIN_X86
+FASTMAN92_LIMIT_ADJUSTER_RELEASE_DIRECTORY is not defined. Documentation files will not be written.
+Game detected: GTA SA 1.0 US Compact 5189632 bytes
+Game uses dynamic image base? No
+Game preferred image base: 0x400000
+Game current image base: 0x400000
+
+Number of FLA modules: 70
+Delayed processing of limits? No
+
+Root base directory: 
+Root directory: D:\Games\_Vanilla Style GTA\GTA\modloader\$fla
+Initial directory: D:\Games\_Vanilla Style GTA\GTA\modloader\$fla
+INI filename: fastman92limitAdjuster_GTASA.ini
+
+---------------------------------------------
+Modified count of killable model IDs: 12600
+---------------------------------------------
+---------------------------------------------
+Enabling handling.cfg limit adjuster.
+New limits:
+Number of standard lines = 300
+Number of bike lines = 23
+Number of flying lines = 34
+Number of boat lines = 22
+Number of animation group lines = 30
+
+&mod_HandlingManager = 0x1352098, sizeof(mod_HandlingManager) = 0x13E50
+---------------------------------------------
+Error reporting going to be applied.
+GTA_ERROR_ATTEMPT_TO_LOAD_OBJECT_INSTANCE_WITH_UNDEFINED_ID enabled.
+GTA_ERROR_MODEL_DOES_NOT_HAVE_COLLISION_LOADED enabled.
+GTA_ERROR_CAR_GENERATOR_WITH_INVALID_MODEL_ID_IS_GETTING_REGISTERED enabled.
+GTA_ERROR_STREAM_HANDLES_LIMIT_EXCEEDED enabled.
+Error reporting is applied now.
+---------------------------------------------
+---------------------------------------------
+Vehicle audio loader is enabled
+---------------------------------------------
+FLA loading text is disabled.
+---------------------------------------------
+Number of memory changes made: 173
+---------------------------------------------
+Attempt to define a ped/vehicle ID 14000 exceeding the limit of killable model IDs which is 12600
+Please increase this limit.
+Attempt to define a ped/vehicle ID 14001 exceeding the limit of killable model IDs which is 12600
+Please increase this limit.
+Attempt to define a ped/vehicle ID 14002 exceeding the limit of killable model IDs which is 12600
+Please increase this limit.
+Attempt to define a ped/vehicle ID 14003 exceeding the limit of killable model IDs which is 12600
+Please increase this limit.
+Game closed.

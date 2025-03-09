@@ -1,0 +1,71 @@
+# Author: fastman92
+# fastman92 limit adjuster required to apply the radar blip sprite filenames
+#
+# Use NULL for empty strings
+#
+# Blip sprite ID, texture name, text
+
+0 NULL                    NULL
+1 NULL                    NULL
+2 radar_centre            NULL
+3 arrow                   LG_01
+4 radar_north             NULL
+5 radar_airYard           LG_02
+6 radar_ammugun           LG_03
+7 radar_barbers           LG_04
+8 radar_BIGSMOKE          LG_05
+9 radar_boatyard          LG_06
+10 radar_burgerShot       LG_07
+11 radar_bulldozer        LG_66
+12 radar_CATALINAPINK     LG_09
+13 radar_CESARVIAPANDO    LG_10
+14 radar_chicken          LG_11
+15 radar_CJ               LG_12
+16 radar_CRASH1           LG_13
+17 radar_diner            LG_67
+18 radar_emmetGun         LG_15
+19 radar_enemyAttack      LG_16
+20 radar_fire             LG_17
+21 radar_girlfriend       LG_18
+22 radar_hostpitaL        LG_19
+23 radar_LocoSyndicate    LG_20
+24 radar_MADDOG           LG_21
+25 radar_mafiaCasino      LG_22
+26 radar_MCSTRAP          LG_23
+27 radar_modGarage        LG_24
+28 radar_OGLOC            LG_25
+29 radar_pizza            LG_26
+30 radar_police           LG_27
+31 radar_propertyG        LG_28
+32 radar_propertyR        LG_29
+33 radar_race             LG_30
+34 radar_RYDER            LG_31
+35 radar_saveGame         LG_32
+36 radar_school           LG_33
+37 radar_qmark            LG_63
+38 radar_SWEET            LG_35
+39 radar_tattoo           LG_36
+40 radar_THETRUTH         LG_37
+41 radar_waypoint         LG_64
+42 radar_TorenoRanch      LG_39
+43 radar_triads           LG_40
+44 radar_triadsCasino     LG_41
+45 radar_tshirt           LG_42
+46 radar_WOOZIE           LG_43
+47 radar_ZERO             LG_44
+48 radar_dateDisco        LG_45
+49 radar_dateDrink        LG_46
+50 radar_dateFood         LG_47
+51 radar_truck            LG_48
+52 radar_cash             LG_51
+53 radar_flag             LG_52
+54 radar_gym              LG_53
+55 radar_impound          LG_57
+56 radar_light            NULL
+57 radar_runway           LG_65
+58 radar_gangB            LG_58
+59 radar_gangP            LG_59
+60 radar_gangY            LG_60
+61 radar_gangN            LG_61
+62 radar_gangG            LG_62
+63 radar_spray            LG_34
