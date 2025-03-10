@@ -11,6 +11,7 @@
 - CLEO
 - CLEO+
 - NewOpcodes
+- Fastman92 Limit Adjuster
 - Open Limit Adjuster
 - Effect Loader
 - PedSpec
@@ -49,6 +50,7 @@
 - Mobile Hands Support
 - New Effects
 - Animation Fixes
+- Some Gangs & Cops
 
 **brooklynzsmac**
 - Stewardess
@@ -68,14 +70,23 @@
 **Shimada**
 - Cutscene Vehicles
 
+**Calvin**
+- Impaler
+
 **UnitedMel** :trollface: 
 - Map changes
 - Githup Repo
 
-**Pyltham**
+**pylasen**
 - 2dfx Sirens 
 - Prelight Fixes
 - Models
+
+**Ricky Retriever**
+- Biker Cops
+
+**Compeast**
+- Cop bikes
 
 **TareqGamer**
 - Sweet Wounded
@@ -97,7 +108,7 @@
 **Yhdf**
 - Cutscene Bat
 
-**CarlJohnson(CJ)**
+**LividKilla66**
 - Kane
 - Balman
 
