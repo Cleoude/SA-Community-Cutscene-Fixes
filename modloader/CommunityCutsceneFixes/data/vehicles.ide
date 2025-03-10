@@ -227,7 +227,7 @@ cars
 14000,	copbiksf,	copbiksf,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
 14001,	copbikvg,	copbikvg,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
 14002,	copbikru,	copbikru,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
-14003,  impaler, 	impaler,	 car, 		BLOODRB, 	IMPALER, 	null,	normal,		6, 	0,	0,		-1, 0.775, 0.775,		2
+14003,  impaler, 	impaler,	 car, 		TAHOMA, 	IMPALER, 	null,	normal,		6, 	0,	0,		-1, 0.775, 0.775,		2
 
 end
 
