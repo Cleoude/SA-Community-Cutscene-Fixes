@@ -26,6 +26,7 @@
 - Gang Groups added for Families and Ballas
 - 2 extra members added to the gangs 
 - PS2 Object data added
+- Cops improved. (New Biker Cops, Bike and Heli models, fixed badges etc.) 
 
 
 ## LS Missions
@@ -45,6 +46,7 @@
 - CJ walks towards the wall fixed
 - Added missing textures found in Airport Interior
 - Fixed airport road texture
+- Impaler(Artwork Car) added
 
 
 # Prologue 2
@@ -88,7 +90,7 @@
 
 
 # Sweet & Kendl
-- Big Smoke and CJ now walk from the street
+- Big Smoke and CJ now walk from the road
 - Added CJ's mother's grave
 - Kendl remains visible in the scene after insulting Sweet
 - Added a cigarette to Ryder
@@ -194,6 +196,7 @@
 - Fixed the timing of the camera so the position of the characters is fixed
 - Sweet’s line added
 - CJ’s Shoulders Fixed
+- Impaler car added (you can set green or orange in ini file) 
 - Sweet wears bandana in Drive-By
 
 # Sweet's Girl
