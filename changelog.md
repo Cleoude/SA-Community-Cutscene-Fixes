@@ -273,6 +273,7 @@
 # Doberman
 - Now Grass has special model
 - Restored Grass's another dialogues randomized
+- Phonecall Subtitle fixed
 
 # Catalyst
 - Smoke added to pot
