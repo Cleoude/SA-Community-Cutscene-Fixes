@@ -37,6 +37,9 @@
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
 #
 
+#Attention!
+**Much labour has gone into this Project. As you can see in Credits, a lot of people have contributed. Unauthorised use of the mod, reuploading it and passing it off as someone else's mod, not giving Credit, and especially not using it in mods that are bought with money is strictly out of the question! Respect for labour! This Project will be constantly updated anyway, don't tire yourself in vain!**
+
 # Credits:
 
 **Cleoude**
