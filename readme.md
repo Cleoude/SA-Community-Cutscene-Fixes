@@ -138,7 +138,7 @@
 - Voice AI
 
 **Arturo Casasnovas**
-- Burger Eating Anim
+- Eat Burger Anim
 
 # Big Thanks to:
 
