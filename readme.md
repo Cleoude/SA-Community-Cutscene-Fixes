@@ -2,7 +2,9 @@
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/logo.png" alt="CCF-Logo">
 </p>
 
-> **SA Community Cutscene Fixes (or SACCF) is a modification for Grand Theft Auto: San Andreas that aims to fix and improve all cutscenes and gameplay in a more advanced way.** 
+> **SA Community Cutscene Fixes (or SACCF) is a modification for Grand Theft Auto: San Andreas that aims to fix and improve all cutscenes and gameplay in a more advanced way.**
+### [Support the Project](https://boosty.to/cleoude)
+#
 
 # Requirements:
 
@@ -39,9 +41,6 @@
 
 # Attention!
 **Much labour has gone into this Project. As you can see in Credits, a lot of people have contributed. Unauthorised use of the mod, reuploading it and passing it off as someone else's mod, not giving Credit, and especially using it in mods that are bought with money is strictly out of the question! Respect for labour! This Project will be constantly updated anyway, don't tire yourself in vain!**
-#
-
-### [Support the Project](https://boosty.to/cleoude)
 #
 
 # Credits:
