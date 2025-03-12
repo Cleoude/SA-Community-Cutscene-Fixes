@@ -4,7 +4,6 @@
 
 > **SA Community Cutscene Fixes (or SACCF) is a modification for Grand Theft Auto: San Andreas that aims to fix and improve all cutscenes and gameplay in a more advanced way.**
 ### [Support the Project](https://boosty.to/cleoude/donate)
-#
 
 # Requirements:
 
