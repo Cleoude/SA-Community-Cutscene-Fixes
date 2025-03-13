@@ -144,3 +144,6 @@
 
 **ViperJohnGR**
 - ModelVariations
+
+**Jack**
+- Change NPC Model Support
