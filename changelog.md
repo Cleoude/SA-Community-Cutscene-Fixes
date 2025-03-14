@@ -26,7 +26,8 @@
 - Gang Groups added for Families and Ballas
 - 2 extra members added to the gangs 
 - PS2 Object data added
-- Cops improved. (New Biker Cops, Bike and Heli models, fixed badges etc.) 
+- Ballas will drive Voodoo on traffic now. 
+- Impaler added on traffic.
 
 
 ## LS Missions
@@ -203,6 +204,7 @@
 - Sweet's Girl Model changed
 - Added skins for members of Seville Boulevard Families
 - As CJ Sweet and girl escape from Sevilles, the members attack them
+- Sentinel changed to greenwood
 
 # Cesar Vialpando 1
 - Kendl’s Case has texture now
@@ -425,3 +427,4 @@
 - Some subtitles fixed
 - Restores Johnson Brother's unused lines
 - Fixed Cop’s holding pistol and cop line restored
+- Sentinel changed to greenwood and tahoma
