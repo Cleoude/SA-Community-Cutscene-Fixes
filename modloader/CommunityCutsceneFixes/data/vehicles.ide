@@ -224,10 +224,7 @@ cars
 609, 	boxburg, 	boxburg, 	car, 		BOXBURG,	BOXBURG, 	van,	worker, 	10, 	0,	0,		-1, 0.76, 0.76,		-1
 610, 	farmtr1, 	farmtr1, 	trailer,	FARM_TR1, 	FARMTR1, 	null,	ignore,	 	4,	0,	0,		-1, 0.32, 0.32,		-1
 611, 	utiltr1, 	utiltr1, 	trailer,	UTIL_TR1, 	UTILTR1, 	null,	ignore,	 	4,	0,	0,		-1, 0.68, 0.68,		-1
-14000,	copbiksf,	copbiksf,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
-14001,	copbikvg,	copbikvg,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
-14002,	copbikru,	copbikru,	bike,		WAYFARER,	ROAMER,	    wayfarer,	ignore,		10,	0,	0,		16, 0.68, 0.68,		-1
-14003,  impaler, 	impaler,	 car, 		TAHOMA, 	IMPALER, 	null,	normal,		6, 	0,	0,		-1, 0.775, 0.775,		2
+14000,  impaler, 	impaler,	 car, 		TAHOMA, 	IMPALER, 	null,	normal,		6, 	0,	0,		-1, 0.775, 0.775,		2
 
 end
 
