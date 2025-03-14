@@ -56,7 +56,7 @@
 - Mobile Hands Support
 - New Effects
 - Animation Fixes
-- Some Gangs & Cops
+- Some Gangs
 
 **brooklynzsmac**
 - Stewardess
@@ -87,12 +87,6 @@
 - 2dfx Sirens 
 - Prelight Fixes
 - Models
-
-**Ricky Retriever**
-- Biker Cops
-
-**Compeast**
-- Cop bikes
 
 **TareqGamer**
 - Sweet Wounded
