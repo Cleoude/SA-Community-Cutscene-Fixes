@@ -1,11 +1,9 @@
-ktb1
 ktb2
 ktb3
 lsv4
 lsv5
 rhb1
 rhb2
-rhb3
 tem1
 tem2
 tem3
