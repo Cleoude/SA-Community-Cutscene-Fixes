@@ -17,7 +17,7 @@
 - Effect Loader
 - PedSpec
 - ModelVariations
-- Mobile Hands
+- Mobile Hands (Extras Optional)
 
 # Essentials:
 
