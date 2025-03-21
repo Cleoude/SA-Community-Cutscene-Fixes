@@ -35,6 +35,7 @@
 ### Download: [Cutscene Fixes - Extras](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF-Extras.7z)
 ### Download: [CJ's Moms Grave](https://libertycity.net/files/gta-san-andreas/209306-cjs-moms-grave-id-fix.html)
 #
+### [Screenshots](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/screenshots.md)
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
 #
 
