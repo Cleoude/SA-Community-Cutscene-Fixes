@@ -114,8 +114,12 @@
 - Kane
 - Balman
 
+**endochronic**
+- CRASH Redesigned
+
 **Matt1010**
 - Artwork Smoke
+- Carver
 
 **xcold**
 - Colt45
