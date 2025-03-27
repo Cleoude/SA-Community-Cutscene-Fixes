@@ -29,6 +29,10 @@
 - Ballas will drive Voodoo on traffic now. 
 - Impaler added on traffic.
 
+#Updates
+Moved all scripts to a single folder and only one script is running when the mission thread is active. Thus, memory and game are not overloaded
+Every mission customization and subtitles transferred to single ini's and fxt's
+Model changing issues fixed.
 
 ## LS Missions
 
@@ -428,3 +432,18 @@
 - Restores Johnson Brother's unused lines
 - Fixed Cop’s holding pistol and cop line restored
 - Sentinel changed to greenwood and tahoma
+
+# Badlands
+- New headsack Model added
+- Pee effect added to Hernandez.
+- CRASH has new outfits outside LS
+- Fixed the Pulaski not moving his mouth when he is talking in the last part of the cutscene.
+- Pulaski's position in the first frame fixed
+- Cutscene Location changed
+- CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
+- Handcuffs added
+- Pulaski’s pistol pulling fixed and pistol has animation
+- Final camera model added and Pulaski's holding fixed.
+- Pulaski now shows the mountain as the position and angle of the scene has changed.
+- CJ's not mouth moving fixed when saying "man".
+- Carver has special model now.
