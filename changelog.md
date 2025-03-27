@@ -33,6 +33,7 @@
 Moved all scripts to a single folder and only one script is running when the mission thread is active. Thus, memory and game are not overloaded
 Every mission customization and subtitles transferred to single ini's and fxt's
 Model changing issues fixed.
+Some minor script issues fixed.
 
 ## LS Missions
 
