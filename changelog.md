@@ -448,3 +448,13 @@ Some minor script issues fixed.
 - Pulaski now shows the mountain as the position and angle of the scene has changed.
 - CJ's not mouth moving fixed when saying "man".
 - Carver has special model now.
+
+# First Date / Tanker Commander
+- IG Knife Model added
+- Facial animations added to cowboys
+- Fixed CJ looking and turning the wrong way
+- Blood added
+- Fixed the timing of the bottle drop animation
+- Scar added to cowboy
+- Fixed Catalina walking the wrong way
+- Mr. Whittaker has special model now.
