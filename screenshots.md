@@ -124,4 +124,7 @@
 <p align="center">
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/42.jpg" alt="screenshot42">
 </p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/43.jpg" alt="screenshot43">
+</p>
 

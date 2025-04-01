@@ -28,6 +28,8 @@
 - PS2 Object data added
 - Ballas will drive Voodoo on traffic now. 
 - Impaler added on traffic.
+- CRASH has new outfits outside LS
+- CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
 
 #Updates
 Moved all scripts to a single folder and only one script is running when the mission thread is active. Thus, memory and game are not overloaded
@@ -437,11 +439,9 @@ Some minor script issues fixed.
 # Badlands
 - New headsack Model added
 - Pee effect added to Hernandez.
-- CRASH has new outfits outside LS
 - Fixed the Pulaski not moving his mouth when he is talking in the last part of the cutscene.
 - Pulaski's position in the first frame fixed
 - Cutscene Location changed
-- CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
 - Handcuffs added
 - Pulaski’s pistol pulling fixed and pistol has animation
 - Final camera model added and Pulaski's holding fixed.
@@ -458,3 +458,11 @@ Some minor script issues fixed.
 - Scar added to cowboy
 - Fixed Catalina walking the wrong way
 - Mr. Whittaker has special model now.
+
+# Body Harvest
+- Bong Model Improved
+- Improved smoke effects and fixed vapor times
+- Prelight added to Cutscene furnitures
+- Lighter and fire effect added
+- Truth’s animation fixed
+- Fixed Tenpenny walking towards the exit
