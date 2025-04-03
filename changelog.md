@@ -37,7 +37,7 @@ Every mission customization and subtitles transferred to single ini's and fxt's
 Model changing issues fixed.
 Some minor script issues fixed.
 Body Harvest's cutscene skip fixed.
-You don't need to change model id from ini's anymore! ini's now use model names. Now just change ids from ids or use AutoID.
+You don't need to change model id from ini's anymore! ini's now use model names. Now just change ids from ide or use AutoID.
 Big Smoke's cutscene objects now use separate models and no script is needed.
 The Welcome Pump and Angel Pine Motel Interior now have working fans
 Motel Furniture's prelight and models fixed
