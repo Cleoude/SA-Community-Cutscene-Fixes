@@ -29,12 +29,17 @@
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
 ### Download: [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 
+# Recommended:
+
+### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes)
+> Make sure CMF has a higher priority set in the modloader!
+### Download: [CJ's Moms Grave](https://libertycity.net/files/gta-san-andreas/209306-cjs-moms-grave-id-fix.html)
+
 # Latest Release:
 
 ### Download: [Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF.7z)
 ### Download: [Cutscene Audio](https://drive.google.com/file/d/1e8ts0bzk5dOACm7d_4oxx-xrO9-9ah4c/view?usp=sharing)
 ### Download: [Cutscene Fixes - Extras](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF-Extras.7z)
-### Download: [CJ's Moms Grave](https://libertycity.net/files/gta-san-andreas/209306-cjs-moms-grave-id-fix.html)
 #
 ### [Screenshots](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/screenshots.md)
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
@@ -84,6 +89,9 @@
 **UnitedMel** :trollface: 
 - Map changes
 - Githup Repo
+
+**MpPako**
+- Map changes & Objects
 
 **pylasen**
 - 2dfx Sirens 

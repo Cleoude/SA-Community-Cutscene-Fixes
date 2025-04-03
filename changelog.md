@@ -36,6 +36,13 @@ Moved all scripts to a single folder and only one script is running when the mis
 Every mission customization and subtitles transferred to single ini's and fxt's
 Model changing issues fixed.
 Some minor script issues fixed.
+Body Harvest's cutscene skip fixed.
+You don't need to change model id from ini's anymore! ini's now use model names. Now just change ids from ids or use AutoID.
+Big Smoke's cutscene objects now use separate models and no script is needed.
+The Welcome Pump and Angel Pine Motel Interior now have working fans
+Motel Furniture's prelight and models fixed
+PS2 Object dat removed.
+Files that modify the game's original files have been reduced. If you use a map mod ex. CMF you need to increase priorty.
 
 ## LS Missions
 
@@ -466,3 +473,4 @@ Some minor script issues fixed.
 - Lighter and fire effect added
 - Truth’s animation fixed
 - Fixed Tenpenny walking towards the exit
+- Drugs added on the table
