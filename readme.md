@@ -90,7 +90,7 @@
 - Map changes
 - Githup Repo
 
-**MpPako**
+**mpPako**
 - Map changes & Objects
 
 **pylasen**
