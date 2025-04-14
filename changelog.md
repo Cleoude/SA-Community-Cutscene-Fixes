@@ -479,3 +479,8 @@
 - Cesar's grip on kendl improved
 - CJ’s Neck Fixed
 - Fixed Camera being in the closet
+
+# First Base
+- Fixed CJ's foot going through the stairs
+- Catalina’s Pistol grip fixed
+- Fixed Catalina's mouth not moving
