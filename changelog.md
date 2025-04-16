@@ -484,3 +484,6 @@
 - Fixed CJ's foot going through the stairs
 - Catalina’s Pistol grip fixed
 - Fixed Catalina's mouth not moving
+
+#Gone Courting
+- Door’s prelight fixed
