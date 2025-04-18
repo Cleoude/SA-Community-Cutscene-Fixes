@@ -487,3 +487,7 @@
 
 #Gone Courting
 - Door’s prelight fixed
+
+#Made in Heaven
+- Door’s prelight fixed
+- Camera translation fixed
