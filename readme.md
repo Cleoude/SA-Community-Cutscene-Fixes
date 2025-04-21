@@ -65,6 +65,7 @@
 - Animation Fixes
 - Some Gangs
 - New Cesar Outfit
+- SA Styled LC01 Cleond
 
 **brooklynzsmac**
 - Stewardess
@@ -160,3 +161,6 @@
 
 **Jack**
 - Change NPC Model Support
+
+**LC01**
+- LC01 Claude
