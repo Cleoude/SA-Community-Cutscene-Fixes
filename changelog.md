@@ -30,6 +30,7 @@
 - Impaler added on traffic.
 - CRASH has new outfits outside LS
 - CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
+- Cesar and Kendl have new outfits outside LS
 
 #Updates
 - Moved all scripts to a single folder and only one script is running when the mission thread is active. Thus, memory and game are not overloaded
@@ -476,6 +477,8 @@
 - Drugs added on the table
 
 # King in Exile
+- We see deagle in cutscene now
+- New deagle model added
 - Cesar's grip on kendl improved
 - CJ’s Neck Fixed
 - Fixed Camera being in the closet
@@ -485,9 +488,19 @@
 - Catalina’s Pistol grip fixed
 - Fixed Catalina's mouth not moving
 
-#Gone Courting
+# Gone Courting
 - Door’s prelight fixed
 
-#Made in Heaven
+# Made in Heaven
 - Door’s prelight fixed
 - Camera translation fixed
+
+# Wu Zi Mu
+- Cesar arrives at the race track in his car
+- Claude has new model and his car improved
+- Cutscene peds fixed and improved in this scene
+- Woozie’s race car added
+- Zr-350 improved
+- Money model improved
+- CJ’s object holdings fixed
+- New business card added for woozie and its animation fixed

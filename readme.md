@@ -64,6 +64,7 @@
 - New Effects
 - Animation Fixes
 - Some Gangs
+- New Cesar Outfit
 
 **brooklynzsmac**
 - Stewardess
@@ -101,6 +102,7 @@
 **TareqGamer**
 - Sweet Wounded
 - Tdb3 head model
+- New Cesar Outfit Fix
 
 **MisterA**
 - Support & Analyst
@@ -124,6 +126,8 @@
 
 **endochronic**
 - CRASH Redesigned
+- New Cesar Outfit Model Base
+- Kendl Redesigned
 
 **Matt1010**
 - Artwork Smoke
