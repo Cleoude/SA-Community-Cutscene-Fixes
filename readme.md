@@ -33,7 +33,8 @@
 
 ### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes)
 > Make sure CMF has a higher priority set in the modloader!
-### Download: [CJ's Moms Grave](https://libertycity.net/files/gta-san-andreas/209306-cjs-moms-grave-id-fix.html)
+### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
+### Download: [Personal Vehicle](https://www.youtube.com/watch?v=B4D7h8Tdi54)
 
 # Latest Release:
 
@@ -78,6 +79,7 @@
 - Kane
 - Gore Cop
 - Sweet Wounded
+- Artwork Catalina
 
 **deadman23**
 - Cutscene Peds
@@ -134,6 +136,9 @@
 - Artwork Smoke
 - Carver
 - Mr. Whittaker
+
+**_Rob_**
+Miami Claude
 
 **xcold**
 - Colt45

@@ -504,3 +504,14 @@
 - Money model improved
 - CJ’s object holdings fixed
 - New business card added for woozie and its animation fixed
+- Miami outfit added to Claude
+
+# Farewell, My Love...
+- New Claude Model added
+- Car Models Improved
+- Artwork Catalina added 
+- Claude’s animation fixed
+- Damage effects added
+- Cutscene Postiion fixed
+- Catalina's mouth moving fixed
+- Paper animation fixed
