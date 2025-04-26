@@ -121,7 +121,7 @@
 - Some Cutscene Objects
  
 **Yhdf**
-- Cutscene Bat
+- Cutscene Weapons
 
 **LividKilla66**
 - Kane

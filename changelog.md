@@ -515,3 +515,12 @@
 - Cutscene Postiion fixed
 - Catalina's mouth moving fixed
 - Paper animation fixed
+
+# Are You Going To San Fierro?
+- Case model changed
+- Mothership Model improved
+- Case animation fixed
+- Flamethrower model improved
+- Truth now helps with torching stuffs.
+- Truth smokes in the car
+- CJ takes out his phone while making a phone call
