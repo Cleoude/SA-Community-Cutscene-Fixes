@@ -120,6 +120,9 @@
 - Detectives
 - Better Peds Vary
 
+**Ricky Retriever**
+- Motorcycle Cops
+
 **MisterA**
 - Support & Analyst
 

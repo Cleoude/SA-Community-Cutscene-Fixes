@@ -60,6 +60,7 @@
 - In the Small Town Bank mission, motor cops drive police motorbikes.
 - Police Helicopters have different tail numbers.
 - Riot Police and Swat have been added (only for LS). Cops wear Riot helmets and Swat wear green vests and use M4.
+- Army uses Patriot
 
 ## LS Missions
 
