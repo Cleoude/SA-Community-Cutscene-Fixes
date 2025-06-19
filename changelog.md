@@ -44,6 +44,22 @@
 - Motel Furniture's prelight and models fixed
 - PS2 Object dat removed.
 - Files that modify the game's original files have been reduced. If you use a map mod ex. CMF you need to increase priorty.
+- Better peds vary for new skins has been finalised.
+
+#Law Enforcement
+- Each city has its own motorcycle cop, swat team.
+- Desert sherriff restored.
+- LSPD uniforms are now dark blue.
+- Fixed the badge model of the LSPD Motor Cop.
+- Fixed the badge model of the LVPD Cop.
+- FBI and Army have extra models.
+- Cops wear body armour at wanted levels 3 and more.
+- Swats have MP5
+- Added Detectives with 3 or more wanted levels. They use unmarked vehicles and 2 special skins have been added for each city. Skins inspired by films.
+- Each Cop vehicle uses the Police Decal of its city. (LSPD,SFPD,LVPD,COUNTY SHERRIFF)
+- In the Small Town Bank mission, motor cops drive police motorbikes.
+- Police Helicopters have different tail numbers.
+- Riot Police and Swat have been added (only for LS). Cops wear Riot helmets and Swat wear green vests and use M4.
 
 ## LS Missions
 

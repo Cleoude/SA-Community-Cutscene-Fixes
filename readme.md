@@ -67,6 +67,9 @@
 - Some Gangs
 - New Cesar Outfit
 - SA Styled LC01 Cleond
+- Better Peds Vary
+- Cop Models
+- Triadc
 
 **brooklynzsmac**
 - Stewardess
@@ -80,12 +83,19 @@
 - Gore Cop
 - Sweet Wounded
 - Artwork Catalina
+- Better Peds Vary
+- Cops & Swat Models
+- FBI Models
+- Army Models
+- New Color for LSPD Uniforms
+- New Desert Eagle Model For Cutscene
 
 **deadman23**
 - Cutscene Peds
 
 **Shimada**
 - Cutscene Vehicles
+- Unmarked Crusier (LS/SF)
 
 **Calvin**
 - Impaler
@@ -96,6 +106,7 @@
 
 **mpPako**
 - Map changes & Objects
+- Police Vehicles
 
 **pylasen**
 - 2dfx Sirens 
@@ -106,6 +117,8 @@
 - Sweet Wounded
 - Tdb3 head model
 - New Cesar Outfit Fix
+- Detectives
+- Better Peds Vary
 
 **MisterA**
 - Support & Analyst
@@ -115,6 +128,9 @@
 
 **ICantReadYourMind**
 - ModelVariations Support
+
+**B1ack_&_Wh1te**
+Cops Armor Script
 
 **SAMP Team** 
 - Handcuff Model
@@ -136,6 +152,8 @@
 - Artwork Smoke
 - Carver
 - Mr. Whittaker
+- Army Models
+- San Fierro Rifa & Da Nang Boys Skins
 
 **_Rob_**
 Miami Claude
@@ -152,6 +170,10 @@ Miami Claude
 
 **Bloodriver**
 - Exhaust Effect
+- Riot Control
+
+**Red_Ender**
+- Heli Fix
 
 **DoctorMike**
 - Voice AI
