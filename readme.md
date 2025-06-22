@@ -159,7 +159,7 @@ Cops Armor Script
 - San Fierro Rifa & Da Nang Boys Skins
 
 **_Rob_**
-Miami Claude
+- Miami Claude
 
 **xcold**
 - Colt45
