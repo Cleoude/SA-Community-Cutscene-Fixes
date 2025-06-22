@@ -35,6 +35,8 @@
 > Make sure CMF has a higher priority set in the modloader!
 ### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
 ### Download: [Personal Vehicle](https://www.youtube.com/watch?v=B4D7h8Tdi54)
+### Download: [endochronic's thrift store](https://gtaforums.com/topic/985222-endochronics-thrift-store/)
+> A lot of people have been asking about player clothes, and since he's on my team, it's worth contributing.
 
 # Latest Release:
 
