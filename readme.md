@@ -72,6 +72,7 @@
 - Better Peds Vary
 - Cop Models
 - Triadc
+- Jethro & Dwayne
 
 **brooklynzsmac**
 - Stewardess
@@ -91,9 +92,11 @@
 - Army Models
 - New Color for LSPD Uniforms
 - New Desert Eagle Model For Cutscene
+- LPP Chars (Extras) 
 
 **deadman23**
 - Cutscene Peds
+- Jethro & Dwayne
 
 **Shimada**
 - Cutscene Vehicles
@@ -124,6 +127,9 @@
 
 **Ricky Retriever**
 - Motorcycle Cops
+
+**RRT94**
+- Jethro & Dwayne Nametags
 
 **MisterA**
 - Support & Analyst

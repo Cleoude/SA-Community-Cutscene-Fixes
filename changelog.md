@@ -31,6 +31,7 @@
 - CRASH has new outfits outside LS
 - CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
 - Cesar and Kendl have new outfits outside LS
+- Jethro and Dwayne’s outfits have nametags like in artwork.
 
 #Updates
 - Moved all scripts to a single folder and only one script is running when the mission thread is active. Thus, memory and game are not overloaded
@@ -45,6 +46,8 @@
 - PS2 Object dat removed.
 - Files that modify the game's original files have been reduced. If you use a map mod ex. CMF you need to increase priorty.
 - Better peds vary for new skins has been finalised.
+- Cuts.img fixed. Now you can access all cutscenes.
+- LPP Chars added as extra.
 
 #Law Enforcement
 - Each city has its own motorcycle cop, swat team.
@@ -541,3 +544,11 @@
 - Truth now helps with torching stuffs.
 - Truth smokes in the car
 - CJ takes out his phone while making a phone call
+
+# Wear Flowers in Your Hair
+- Kendl and Cesar's hand-holding fixed
+- Garage doors added as cutscene object
+- Kendl's flicker fixed
+- Truth added to outro cutscene
+- Dwayne has new outfit before starting work in the garage
+- Jethro's grip on the broom fixed
