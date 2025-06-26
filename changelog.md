@@ -48,6 +48,7 @@
 - Better peds vary for new skins has been finalised.
 - Cuts.img fixed. Now you can access all cutscenes.
 - LPP Chars added as extra.
+- Some peds are restored
 
 #Law Enforcement
 - Each city has its own motorcycle cop, swat team.
@@ -560,3 +561,10 @@
 - Valets' shirts are identical in appearance to CJ's Valet Uniform.
 - D.A. has special model.
 - Fixed Cop’s holding pistol
+
+# Deconstruction
+- Jethro and Dwayne have their appearance in the artwork
+- Remington Fixed
+- Garage doors added as cutscene object
+- Bmycon added as wmycon variation
+- Foreman model changed to wmyconb
