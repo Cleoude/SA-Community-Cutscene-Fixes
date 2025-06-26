@@ -165,6 +165,7 @@ Cops Armor Script
 - Mr. Whittaker
 - Army Models
 - San Fierro Rifa & Da Nang Boys Skins
+- Valet Shirt Fix
 
 **_Rob_**
 - Miami Claude
@@ -175,6 +176,7 @@ Cops Armor Script
 **Kalvin**
 - Beta OGs
 - Alan
+- D.A.
 
 **139andlennox**
 - Vagos & Vla

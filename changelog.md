@@ -552,3 +552,11 @@
 - Truth added to outro cutscene
 - Dwayne has new outfit before starting work in the garage
 - Jethro's grip on the broom fixed
+
+# 555 WE TIP
+- Garage doors added as cutscene object
+- Camera transitions fixed
+- CJ’s cellphone added to cutscene
+- Valets' shirts are identical in appearance to CJ's Valet Uniform.
+- D.A. has special model.
+- Fixed Cop’s holding pistol
