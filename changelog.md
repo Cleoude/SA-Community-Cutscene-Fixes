@@ -568,3 +568,9 @@
 - Garage doors added as cutscene object
 - Bmycon added as wmycon variation
 - Foreman model changed to wmyconb
+
+# Photo Opportunity
+- Cesar has new outfit outside LS
+- Ryder has new outfit outside LS
+- Introduction Balla added as Ryder's Bodyguard
+- Fixed Jizzy's inverted hairstyle that did not match the cutscene version.

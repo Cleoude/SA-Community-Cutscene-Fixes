@@ -73,6 +73,7 @@
 - Cop Models
 - Triadc
 - Jethro & Dwayne
+- Jizzy Fix
 
 **brooklynzsmac**
 - Stewardess
@@ -153,6 +154,7 @@ Cops Armor Script
 **LividKilla66**
 - Kane
 - Balman
+- Balgrd
 
 **endochronic**
 - CRASH Redesigned
@@ -166,6 +168,7 @@ Cops Armor Script
 - Army Models
 - San Fierro Rifa & Da Nang Boys Skins
 - Valet Shirt Fix
+- Ryder outside LS
 
 **_Rob_**
 - Miami Claude
