@@ -574,3 +574,12 @@
 - Ryder has new outfit outside LS
 - Introduction Balla added as Ryder's Bodyguard
 - Fixed Jizzy's inverted hairstyle that did not match the cutscene version.
+
+# Jizzy
+- Woozie now has artwork appearance.
+- New Photos added.
+- CJ’s hand fixed
+- New Prostitutes and Stripper added
+- Facial animations added to Cutscene Peds
+- Camera moved to left because stripper animations were cut
+- Jizzy’s eyes fixed

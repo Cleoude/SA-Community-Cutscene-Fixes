@@ -94,7 +94,8 @@
 - Army Models
 - New Color for LSPD Uniforms
 - New Desert Eagle Model For Cutscene
-- LPP Chars (Extras) 
+- LPP Chars (Extras)
+- Jizzy's Stripper 
 
 **deadman23**
 - Cutscene Peds
@@ -114,6 +115,12 @@
 **mpPako**
 - Map changes & Objects
 - Police Vehicles
+- Loco Syndicate Photos
+
+**Zacary_08**
+- Mobile Hands Support
+- Improved IG Chars (W.I.P)
+- Artwork Woozie
 
 **pylasen**
 - 2dfx Sirens 
@@ -132,6 +139,7 @@
 
 **RRT94**
 - Jethro & Dwayne Nametags
+- Loco Syndicate Photo Edit
 
 **MisterA**
 - Support & Analyst
