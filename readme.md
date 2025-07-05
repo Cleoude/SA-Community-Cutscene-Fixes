@@ -28,6 +28,7 @@
 ### Download: [CLEO+](https://github.com/JuniorDjjr/CLEOPlus/releases/tag/v1.2.0)
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
 ### Download: [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
+### Download: [Modloader](https://github.com/thelink2012/modloader/releases/tag/v0.3.7)
 
 # Recommended:
 
