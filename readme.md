@@ -23,7 +23,7 @@
 
 # Essentials:
 
-### Download: [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/Win32-latest/vorbisFile-Win32.zip)
+### Download: [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/tag/v8.2.0)
 ### Download: [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
 ### Download: [CLEO+](https://github.com/JuniorDjjr/CLEOPlus/releases/tag/v1.2.0)
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
