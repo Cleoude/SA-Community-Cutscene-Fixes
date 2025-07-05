@@ -9,7 +9,7 @@
 
 - Grand Theft Auto: San Andreas v1.0
 - Ultimate ASI Loader
-- CLEO
+- CLEO4
 - CLEO+
 - NewOpcodes
 - Modloader
@@ -24,7 +24,7 @@
 # Essentials:
 
 ### Download: [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/Win32-latest/vorbisFile-Win32.zip)
-### Download: [CLEO](https://github.com/cleolibrary/CLEO5/releases/download/v5.0.0-RC5/SA.CLEO_v5.0.0-RC5.zip)
+### Download: [CLEO4](https://github.com/cleolibrary/CLEO4/releases)
 ### Download: [CLEO+](https://github.com/JuniorDjjr/CLEOPlus/releases/tag/v1.2.0)
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
 ### Download: [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
