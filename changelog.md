@@ -583,3 +583,13 @@
 - Facial animations added to Cutscene Peds
 - Camera moved to left because stripper animations were cut
 - Jizzy’s eyes fixed
+
+# Mountain Cloud Boys
+- Lottery Ticket added.
+- Cutscene Peds improved
+- Mouth animations added to peds
+- Triads changed in this scene
+- Fixed girls not disappearing after leaving
+- Fixed Woozie sitting on the couch
+- Mediator has special skin now.
+- Blood Feather Triads have special skins now.

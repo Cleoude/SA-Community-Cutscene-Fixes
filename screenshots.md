@@ -187,6 +187,16 @@
 <p align="center">
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/59.jpg" alt="screenshot59">
 </p>
+</p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/60.jpg" alt="screenshot60">
+</p>
+</p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/61.jpg" alt="screenshot61">
+</p>
+
+
 
 
 
