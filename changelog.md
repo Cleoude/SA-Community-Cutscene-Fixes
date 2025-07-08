@@ -593,3 +593,10 @@
 - Fixed Woozie sitting on the couch
 - Mediator has special skin now.
 - Blood Feather Triads have special skins now.
+
+# T-Bone Mendez
+- Jizzy and Tbone’s models improved and fixed
+- Cutscene position changed, thus T-bone sits on the couch
+- Jizzy’s eyes fixed
+- Phone’s teleporting fixed. T-bone takes the phone out of his pocket
+- SF Criminals replaced with regular criminals in this mission.

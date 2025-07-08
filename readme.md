@@ -122,6 +122,8 @@
 - Mobile Hands Support
 - Improved IG Chars (W.I.P)
 - Artwork Woozie
+- Jizzy Rework
+- T-bone Rework
 
 **pylasen**
 - 2dfx Sirens 
