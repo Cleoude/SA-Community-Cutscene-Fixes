@@ -49,6 +49,7 @@
 - Cuts.img fixed. Now you can access all cutscenes.
 - LPP Chars added as extra.
 - Some peds are restored
+- Vehicle Lines.txt removed because some issues in game. We had to use dat and handling filesç
 
 #Law Enforcement
 - Each city has its own motorcycle cop, swat team.
@@ -600,3 +601,14 @@
 - Jizzy’s eyes fixed
 - Phone’s teleporting fixed. T-bone takes the phone out of his pocket
 - SF Criminals replaced with regular criminals in this mission.
+
+# Mike Toreno
+- Jizzy’s stand up animation fixed
+- Van Improved
+- Toreno’s holding fixed
+- Coke added in the van
+- Vehicles removed in cutscene
+- Toreno’s suit improved
+- Stretch replaced to Washington. (Due to the car being too long and not being painted in Pay N Spray.)
+- Toreno has pistol like in cutscene.
+- T-Bone and Toreno can destroy Van. Previously, it was set to only be destroyed by the player.

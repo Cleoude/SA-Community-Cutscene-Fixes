@@ -101,6 +101,7 @@
 **deadman23**
 - Cutscene Peds
 - Jethro & Dwayne
+- Mike Toreno
 
 **Shimada**
 - Cutscene Vehicles
