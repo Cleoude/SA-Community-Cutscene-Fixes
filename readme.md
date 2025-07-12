@@ -138,6 +138,9 @@
 - Detectives
 - Better Peds Vary
 
+**Sergui**
+- Voice AI
+
 **Ricky Retriever**
 - Motorcycle Cops
 
