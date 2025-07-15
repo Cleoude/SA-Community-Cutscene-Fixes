@@ -612,3 +612,11 @@
 - Stretch replaced to Washington. (Due to the car being too long and not being painted in Pay N Spray.)
 - Toreno has pistol like in cutscene.
 - T-Bone and Toreno can destroy Van. Previously, it was set to only be destroyed by the player.
+
+# Ran Fa Li
+- Chopsticks improved
+- Rice added to bowls and smoke effect added
+- Su Xi Mu’s ponytail fixed
+- Eating animation added to Ran Fa Li (facials)
+- Ran Fa Li When eating rice, a piece of rice added to the chopstick
+- Fixed Su Xi Mu’s colliding to table
