@@ -126,6 +126,10 @@
 - Artwork Woozie
 - Jizzy Rework
 - T-bone Rework
+- Sfr, Triads, Dnbs
+
+**Antonín Šimara**
+- Gangs & Characters
 
 **pylasen**
 - 2dfx Sirens 
