@@ -12,7 +12,7 @@
 # Requirements:
 
 - Get a clean version of Grand Theft Auto: San Andreas v1.0
-> Bunu da kurmayı biliyorsunuzdur değil mi? :trollface:
+> You know how to set this up, right? :trollface:
 
 - [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/tag/v8.2.0)
 > Drop(not like a rain drop) dinput8.dll to Game's root folder.
