@@ -118,7 +118,8 @@ tornado, exh_lr_t1, exh_lr_t2, fbmp_lr_t1, fbmp_lr_t2, nto_b_l, nto_b_s, nto_b_t
 #pcj600, exh_bk_pc_sa, exh_bk_pc_ta, exh_bk_pc_tc, misc_a_bk_pc1, misc_a_bk_pc2, nto_bk_s, nto_bk_tw
 
 #ccf cars
-impaler, nto_b_l, nto_b_s, nto_b_tw 
+impaler, nto_b_l, nto_b_s, nto_b_tw
+camper, nto_b_l, nto_b_s, nto_b_tw 
 
 
 end

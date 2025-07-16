@@ -93,7 +93,7 @@ cars
 480,	comet,		comet,		car, 		COMET,	 	COMET, 		null,	executive, 	5, 	0,	2ff0,		-1, 0.7, 0.7,		0
 481,	bmx,		bmx,		bmx, 		BMX,	 	BMX, 		bmx,	bicycle,	5,	0,	0,		23, 0.54, 0.54,		-1
 482, 	burrito, 	burrito, 	car, 		BURRITO,	BURRITO, 	van,	normal, 	10,	0,	0,		-1, 0.7, 0.7,		-1
-483, 	camper, 	camper, 	car, 		CAMPER, 	CAMPER, 	van,	normal, 	4,	0,	0,		-1, 0.66, 0.66,		-1
+483,    camper,     camper,     car,        CAMPER,     CAMPER,     van,    normal,     4,  0,  0,      -1, 0.66, 0.66,      0
 484, 	marquis, 	marquis, 	boat,		MARQUIS,	MARQUIS, 	null,	workerboat,	10,	0,	0
 485, 	baggage,	baggage,	car, 		BAGGAGE,	BAGGAGE, 	null,	normal,		4, 	0,	0,		-1, 0.6, 0.6,		-1
 486, 	dozer, 		dozer, 		car, 		DOZER, 		DOZER, 		dozer,	ignore, 	4, 	0,	0,		-1, 1.5, 1.5,		-1	
