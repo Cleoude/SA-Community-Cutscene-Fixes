@@ -1,20 +1,12 @@
-#Vehicles
+# Created with FXT-Editor 0.1 by WordsBG
+#  Seemann rocks for creating Sanny Builder and CLEO
+
 IMPALER Impaler
-
-#Intro
 INT1_EJ ~z~Come on, CJ? You can't keep up with the fat man?
-
-#Nines and Aks
 SWE3a22 ~z~Nigga, shake 'em up again.
-
-#Drive by
 SWE4a15 ~z~Yeah...
-
-#Cesar Vialpando
 SWE6B13 ~z~Ïrale vato. Who's this pendejo?
-SWE6B23 ~z~Ïrale pendejo you lucky. That's right, you lucky Cesar's spoken for you 
-
-#Running Dog
+SWE6B23 ~z~Ïrale pendejo you lucky. That's right, you lucky Cesar's spoken for you
 SMO2a06 ~z~The gang's real important, CJ, you know that!
 SMO2b03 ~z~Hey - excusee me, Jose. Yo soy El Grando Smokio,
 SMO2b20 ~z~Motherfucker...
@@ -23,31 +15,20 @@ SMO2b15 ~z~- Man, let me get the heater on this...~n~- Damn, fuck this, man.
 SMO2b21 ~z~Fuck this.
 SMO2b17 ~z~Yeah, yeah, go get that shit, now...
 SMO2b22 ~z~- Get him.~n~- Whatchoo talk about...
-
-#Just Business
 SMO4_HS ~z~Get us up that ramp, Smoke!
-
-#Management Issues
 STR3A03 ~z~- Who? Loc? Oh you mean Jeffrey!~n~- Man...
-
-#House Party
 STR4A14 ~z~- Get some real fly girls, you know what I'm saying?~n~- Yeah...
 STR4A19 ~z~- The ones in bikinis and shit, in the videos?~n~- Uh-huh...
 STR4A18 ~z~That's what I'm talking about!
 STR4A17 ~z~only keeping it real.
 STR4A22 ~z~You know what I'm saying?
-
 STR4B28 ~z~- ...thought the motherfucking mic was broke...~n~- Yeah, yeah, let me here you say O... G...
 STR4B29 ~z~- Hey, what's up, homie!~n~- Yeah, yeah, let me here you say O... G...
 STR4B30 ~z~- What's up, Ryder.~n~- Yeah, yeah, let me here you say O... G...
 STR4B02 ~z~- All the homies in the back, man, away from this whack music.~n~- Hey, what's dope, baby, And it's Loc baby, It's dope, It's Loc, No joke, No joke...
 STR4B31 ~z~- Man, I'm furious. C'mon.~n~- Hey, what's dope, baby, And it's Loc baby, It's dope, It's Loc, No joke, No joke...
 STR4B04 ~z~- look at my man CJ right there... CJ what up, nigga? What UUUUUUUUPPPP...~n~- Looooc!
-
-#Doberman
 MSWE14A ~z~What's up, Sweet?
-
-#Los Sepulcros
 SWE7A13 ~z~Hey, what up!
 SWE7A08 ~z~- What's going on, dog?~n~- At a funeral.
 SWE7A09 ~z~- Just like Momma's. Let's go pop these motherfuckers out.~n~- What up, family!
@@ -57,8 +38,6 @@ SWE7A10 ~z~- Hey, look, we gotta go do something real big.~n~- What's poppin' ni
 SWE7A16 ~z~What up, kinfolk!
 SWE7A11 ~z~- What up, dog!~n~- Put Grove Street on the map for good. 4 life!
 SWE7A12 ~z~- A'ight, nigga. Let's roll.~n~- Grove Street for life!
-
-#Green Sabre
 FIN2A21 ~z~Yeah. That's right.
 FIN2A01 ~z~Grove Street is king! Say it with me niggas, Grove Street is KING!
 FIN2A23 ~z~Yeah. For sure.
@@ -69,25 +48,17 @@ FIN2B08 ~z~Shit... C.R.A.S.H. makin' y'all sell us out!
 FIN2_BD ~z~It's Smoke and Ryder, they in deep with Tenpenny and some Ballas!
 FIN2_BE ~z~They sold us out!
 FIN2_BJ ~z~I'M TAKING YOU ALL DOWN BITCHES!
-
-#Badlands
 BCR1C1 ~z~Man...
 BCR1C2 ~z~Yeah.
 BCR1@30 ~z~- Let me air this fucker out.~n~- Hey!
 BCR1@39 ~z~- Hey Hernandez, you going to piss all day?~n~- Come here.
 BCR1@25 ~z~Yeah. Homies for life? Street loyalty? That's all bullshit, Carl.
-
-#First Date
 CAT1@01 ~z~- You big streak of yankee piss!~n~- Holy shit!
 CAT1@02 ~z~- I seen fucking eunuchs with more balls than you!~n~- Woah!
 CAT1@06 ~z~- Mexican guy. He ain't here....~n~- Come on, bitch. Get off me!
 CAT1@11 ~z~Crazy bitch!
-
-#Body Harvest
 MTRU01A ~z~Yeah.
 TRU1@31 ~z~Namaste, Carl.
-
-#First Base
 CAT2@08 ~z~- Agh! Shit!~n~- Here, cabron.
 CAT2@11 ~z~Just... Just don't fucking shoot me! Please!
 CAT2@29 ~z~Ah ah! C'mon now, baby, c'mon.
@@ -98,43 +69,22 @@ CAT2@17 ~z~I'm, I'mma treat you right, baby.
 CAT2@18 ~z~Shit... Just... c'mon...just please don't shoot me.
 CAT2@19 ~z~Carl, I... I think I love you.
 CAT2@20 ~z~Err, shit that's great. Err, cool. Uh, Yeah, fantastic. Shit, All that uhh...
-
-#Gone Courting
 CAT3@10 ~z~- I'm gonna torture your sorry ass!~n~- No, baby. No. Please no.
-
-#Made in Heaven
 MCAT02A ~z~Heeeey, what's happening?
-
-#Wu Zi Mu
 BCE4@13 ~z~CJ. Carl Johnson.
-
-#Are You Going to San Fierro?
 MTRU02A ~z~What's happening?
-
-#Wear Flowers in Your Hair
 GAR1C06 ~z~Ïrale, let's get to work.
 GAR1c26 ~z~Ey!
-
-#Deconstruction
 GAR3a12 ~z~Yeeah!
-
-#Photo Opportunity
 SYN1_LB ~z~We better split up and get outta here. I'll meet you back at the garage, eh!
-
-#Jizzy
 SYN2a25 ~z~Eh, cabron.
 SYN2a26 ~z~A'ight.
 SYN2b21 ~z~You my playa partner now, Jizzy.
-
-#Mountain Cloud Boys
 WOO1@34 ~z~- Alright, come on! You can do it! You can do it!~n~- Come on, Burstone! Come on, Burstone!
 WOO1@35 ~z~- Go, go!~n~- Kick ass, maniac Burstone!
 WOO1@36 ~z~- Come on, Burstone!~n~- Come on, Burstone!
 WOO1@37 ~z~- Rrrrgh!~n~- Come on! Go, go, go! Come on, you can do it!
 WOO1@38 ~z~Burstone, you suck!
-
-#T-Bone Mendez
 FAR2A08 ~z~Ïrale, ese.
-
-#Mike Toreno
-FAR3B05 ~z~Hey, chale g¬ero, we ain't torching nada!
+FAR3B05 ~z~Hey, chale g�ero, we ain't torching nada!
+MCAT03B ~z~Catalina? Is that you, again?
