@@ -619,4 +619,4 @@
 - Su Xi Mu’s ponytail fixed
 - Eating animation added to Ran Fa Li (facials)
 - Ran Fa Li When eating rice, a piece of rice added to the chopstick
-- Fixed Su Xi Mu’s colliding to table
+- Fixed Su Xi Mu and Woozie's colliding to table
