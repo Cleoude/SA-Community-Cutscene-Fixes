@@ -48,7 +48,7 @@
 ### [Showcase Videos](https://www.youtube.com/watch?v=WRXGDa0AftQ&list=PLjCd4HiNMh9ldHsFI4199zLm_AAkJmFGY)
 ### [Screenshots](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/screenshots.md)
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
-### [I don't know how to install :sob::sob:](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/how to install.md)
+### [I don't know how to install :sob::sob:](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/howtoinstall.md)
 #
 
 # Attention!
