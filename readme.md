@@ -119,7 +119,8 @@
 - Map changes & Objects
 - Police Vehicles
 - Loco Syndicate Photos
-- Rice Rice Baby :trollface: 
+- Rice Rice Baby :trollface:
+- Washington w/out High Roof :trollface:
 
 **Zacary_08**
 - Mobile Hands Support

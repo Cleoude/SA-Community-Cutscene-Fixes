@@ -620,3 +620,12 @@
 - Eating animation added to Ran Fa Li (facials)
 - Ran Fa Li When eating rice, a piece of rice added to the chopstick
 - Fixed Su Xi Mu and Woozie's colliding to table
+
+# Outrider
+- Washington improved, no high roof anymore
+- Plate gets its textures entirely from vehicle.txd.
+- Fixed cj's shoulder going into itself.
+- New 3d Steering Wheel
+- T-Bone’s pistol holding fixed
+- Animation position of CJ and T-Bone was edited because the animation was made for high roof.
+- Mike Toreno holding on to the car also edited.
