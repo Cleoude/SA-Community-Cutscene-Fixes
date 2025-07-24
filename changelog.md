@@ -629,3 +629,6 @@
 - T-Bone’s pistol holding fixed
 - Animation position of CJ and T-Bone was edited because the animation was made for high roof.
 - Mike Toreno holding on to the car also edited.
+
+# Amphibious Assault
+- CJ takes off his clothes before jumps.
