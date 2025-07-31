@@ -632,3 +632,15 @@
 
 # Amphibious Assault
 - CJ takes off his clothes before jumps.
+
+# Snail Trail
+- Jethro’s shoulder fixed
+- Newspaper improved.
+- Pulaski holds newspaper correctly
+- added animation to newspaper
+- tenpenny’s animation fixed
+- Camera transitions fixed
+- Pulaski's passing through the wall fixed.
+- CJ's animation freeze fixed. Background sound  added to the silence at the end.
+- Reporter and Journalist have special model now.
+- Taxi Driver replaced to mexican driver from intro.

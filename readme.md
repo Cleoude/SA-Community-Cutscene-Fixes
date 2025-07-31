@@ -77,6 +77,7 @@
 - Triadc
 - Jethro & Dwayne
 - Jizzy Fix
+- Mexican Driver
 
 **brooklynzsmac**
 - Stewardess
@@ -129,6 +130,7 @@
 - Jizzy Rework
 - T-bone Rework
 - Sfr, Triads, Dnbs
+- Reporter, Journalist
 
 **Antonín Šimara**
 - Gangs & Characters
@@ -154,6 +156,7 @@
 **RRT94**
 - Jethro & Dwayne Nametags
 - Loco Syndicate Photo Edit
+- Newspaper Texture
 
 **MisterA**
 - Support & Analyst
