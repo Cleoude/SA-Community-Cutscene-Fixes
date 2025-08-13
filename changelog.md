@@ -644,3 +644,34 @@
 - CJ's animation freeze fixed. Background sound  added to the silence at the end.
 - Reporter and Journalist have special model now.
 - Taxi Driver replaced to mexican driver from intro.
+
+# Ice Cold Killa
+- Garage doors added as cutscene object
+- CJ’s hand colliding fixed.
+- Savanna improved and fixed
+- New Bag Model added. 
+- Wheel model changed for savanna wheel
+- CJ’s hand colliding to savanna fixed
+- Garage Trolley improved
+- Pimpmobile added to the garage. Jethro and Dwayne are chopping it up.
+- Cesar's colliding into the trolley fixed
+- Silenced Pistol improved
+- CJ’s pistol holding fixed.
+- CJ pulls back the slide of the pistol.
+- Prelight added to Pole Dance
+- Jizzy and Bettina’s colliding fixed
+- Peds sitting in the seats replaced.
+- Jizzy’s Phone holding fixed
+- Bettina’s arms colliding fixed
+- bodyguard's holding animation fixed
+- Cutscene position fixed for seats
+- Silenced pistol position fixed
+- gasp sound added
+- CJ’s pistol holding fixed
+- Strippers are frightened in this scene
+- Bfypro screams
+- Sudden appearance of cs peds fixed.
+- IG peds changed in the club.
+- New waiters added.
+- Stippers added.
+- Jizzy's ig phone replaced as cs one.

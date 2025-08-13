@@ -78,6 +78,8 @@
 - Jethro & Dwayne
 - Jizzy Fix
 - Mexican Driver
+- Jizzy's Club Waiters
+- Ice Cold Killa #1 Audio
 
 **brooklynzsmac**
 - Stewardess
@@ -122,6 +124,7 @@
 - Loco Syndicate Photos
 - Rice Rice Baby :trollface:
 - Washington w/out High Roof :trollface:
+- Garage Trolley
 
 **Zacary_08**
 - Mobile Hands Support
@@ -131,6 +134,7 @@
 - T-bone Rework
 - Sfr, Triads, Dnbs
 - Reporter, Journalist
+- Bettina, Bogman
 
 **Antonín Šimara**
 - Gangs & Characters
@@ -195,6 +199,7 @@ Cops Armor Script
 - San Fierro Rifa & Da Nang Boys Skins
 - Valet Shirt Fix
 - Ryder outside LS
+- Ice Cold Killa #2 Audio
 
 **_Rob_**
 - Miami Claude
@@ -233,3 +238,4 @@ Cops Armor Script
 
 **LC01**
 - LC01 Claude
+- Duffel bag
