@@ -125,6 +125,7 @@
 - Rice Rice Baby :trollface:
 - Washington w/out High Roof :trollface:
 - Garage Trolley
+- Jizzy's phone
 
 **Zacary_08**
 - Mobile Hands Support
@@ -185,6 +186,7 @@ Cops Armor Script
 - Kane
 - Balman
 - Balgrd
+- New Cigar Model
 
 **endochronic**
 - CRASH Redesigned
@@ -196,7 +198,6 @@ Cops Armor Script
 - Carver
 - Mr. Whittaker
 - Army Models
-- San Fierro Rifa & Da Nang Boys Skins
 - Valet Shirt Fix
 - Ryder outside LS
 - Ice Cold Killa #2 Audio

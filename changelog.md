@@ -674,4 +674,12 @@
 - IG peds changed in the club.
 - New waiters added.
 - Stippers added.
-- Jizzy's ig phone replaced as cs one.
+- Jizzy's has new phone model.
+
+# Pier 69
+- Banshee replaced to Sultan because it was 2 door vehicle.
+- Ryder has new outfit outside LS
+- Introduction Balla added as Ryder's Bodyguard
+- Triads, Ballas and Rifa gang models used randomized in this mission.
+- Subtitle Fixed for Boat's owner line.
+- Phone effect added for cesar's dialogue after Ryder dead.
