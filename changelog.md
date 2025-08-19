@@ -683,3 +683,8 @@
 - Triads, Ballas and Rifa gang models used randomized in this mission.
 - Subtitle Fixed for Boat's owner line.
 - Phone effect added for cesar's dialogue after Ryder dead.
+
+# Toreno's Last Flight
+- The man they thought was Toreno added to the helicopter passenger seat. Since he was wearing the same clothes, Toreno would be able to fake his death.
+- A box  added in the helicopter and does not disappear after the scene.
+- The unnecessary text displayed after completing the mission removed.
