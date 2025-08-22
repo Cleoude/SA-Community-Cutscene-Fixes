@@ -136,6 +136,7 @@
 - Sfr, Triads, Dnbs
 - Reporter, Journalist
 - Bettina, Bogman
+- Snakehead
 
 **Antonín Šimara**
 - Gangs & Characters

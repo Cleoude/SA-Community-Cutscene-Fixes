@@ -688,3 +688,10 @@
 - The man they thought was Toreno added to the helicopter passenger seat. Since he was wearing the same clothes, Toreno would be able to fake his death.
 - A box  added in the helicopter and does not disappear after the scene.
 - The unnecessary text displayed after completing the mission removed.
+
+# The Da Nang Thang
+- New Triad member added to cutscene
+- Camera position fixed
+- Woozie's neck fixed.
+- Da Nang Boys gang models are randomized in the mission
+- Snakehead has special model now

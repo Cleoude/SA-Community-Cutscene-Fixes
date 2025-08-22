@@ -237,8 +237,13 @@
 </p>
 </p>
 <p align="center">
-  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/73.jpg" alt="screenshot72">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/72.jpg" alt="screenshot72">
 </p>
+</p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/73.jpg" alt="screenshot73">
+</p>
+
 
 
 
