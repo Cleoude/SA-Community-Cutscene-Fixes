@@ -137,6 +137,7 @@
 - Reporter, Journalist
 - Bettina, Bogman
 - Snakehead
+- Triad Mechanic
 
 **Antonín Šimara**
 - Gangs & Characters

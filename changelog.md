@@ -695,3 +695,10 @@
 - Woozie's neck fixed.
 - Da Nang Boys gang models are randomized in the mission
 - Snakehead has special model now
+
+# Yay Ka-Boom-Boom
+- Cutscene Characters/Objects positions fixed
+- New Money models added 
+- Woozie and Triad member removed before appeared(I forgot to mention this in video)
+- Artwork Triad added to scene
+- Woozie’s arms fixed
