@@ -702,3 +702,11 @@
 - Woozie and Triad member removed before appeared(I forgot to mention this in video)
 - Artwork Triad added to scene
 - Woozie’s arms fixed
+
+# Zeroing In
+- Garage doors added as cutscene object
+- Artwork Cesar and Finalized Beta Kendl Outfits added
+- New card models added
+- When Kendl slapped CJ, laughing animation added to Cesar
+- CJ's card drops from his hand
+- CJ’s position fixed, so he doesn’t collide the table

@@ -100,7 +100,8 @@
 - New Color for LSPD Uniforms
 - New Desert Eagle Model For Cutscene
 - LPP Chars (Extras)
-- Jizzy's Stripper 
+- Jizzy's Stripper
+- Finalized Beta Kendl 
 
 **deadman23**
 - Cutscene Peds
@@ -126,6 +127,7 @@
 - Washington w/out High Roof :trollface:
 - Garage Trolley
 - Jizzy's phone
+- Play Cards
 
 **Zacary_08**
 - Mobile Hands Support
