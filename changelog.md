@@ -710,3 +710,9 @@
 - When Kendl slapped CJ, laughing animation added to Cesar
 - CJ's card drops from his hand
 - CJ’s position fixed, so he doesn’t collide the table
+
+# Test Drive
+- Jethro’s shoulders fixed
+- Garage doors added as cutscene object
+- Artwork Cesar Outfit added
+- Floating cigar removed
