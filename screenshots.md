@@ -255,6 +255,10 @@
 <p align="center">
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/76.jpg" alt="screenshot76">
 </p>
+</p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/76.jpg" alt="screenshot77">
+</p>
 
 
 

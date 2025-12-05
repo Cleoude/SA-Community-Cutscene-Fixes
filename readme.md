@@ -128,6 +128,7 @@
 - Garage Trolley
 - Jizzy's phone
 - Play Cards
+- Security Car
 
 **Zacary_08**
 - Mobile Hands Support
@@ -140,6 +141,7 @@
 - Bettina, Bogman
 - Snakehead
 - Triad Mechanic
+- Patrol Invest Group Peds
 
 **Antonín Šimara**
 - Gangs & Characters

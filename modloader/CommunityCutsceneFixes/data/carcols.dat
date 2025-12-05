@@ -366,6 +366,7 @@ enforcsf, 0,1
 enforcvg, 0,1
 detcar, 36,1
 detcarvg, 36,1
+secucar, 1,53
 end
 
 car4

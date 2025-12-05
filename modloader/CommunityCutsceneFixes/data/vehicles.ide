@@ -239,6 +239,9 @@ cars
 14010, 	enforcvg, 	enforcer, 	car, 		ENFORCER, 	ENFORCR, 	van,	ignore,		10,	0,	0,		-1, 0.936, 0.936,	-1
 14011, 	detcar, 	detcar, 	car, 		POLICE_LA, 	POLICAR,	null,	ignore,		10,	0,	0,		-1, 0.7, 0.7,	-1
 14012, 	detcarvg, 	detcarvg, 	car, 		POLICE_VG, 	POLICAR,	null,	ignore,		10,	0,	0,		-1, 0.7, 0.7,	-1
+14013, 	secucar, 	secucar, 	car, 		SOLAIR, 	SECUCAR, 	null,	normal,		10, 	0,	0,		-1, 0.72, 0.72,		0
+
+
 
 end
 

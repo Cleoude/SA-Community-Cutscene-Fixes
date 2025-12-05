@@ -716,3 +716,14 @@
 - Garage doors added as cutscene object
 - Artwork Cesar Outfit added
 - Floating cigar removed
+
+# Customs Fast Tracks
+- Garage doors added as cutscene object
+- Cesar’s positions fixed on remington seat
+- Remington Improved
+- Csblue changed to shmycr
+- Artwork Cesar Outfit added
+- Finalized Beta Kendl Outfit added
+- Kendl’s CJ holding fixed
+- Patrol Invest Group added for dock security in this mission
+- New Security Car added in the game
