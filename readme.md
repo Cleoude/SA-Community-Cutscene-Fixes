@@ -23,7 +23,7 @@
 
 # Videos
 
-### All Trailer & Showcase Videos(https://www.youtube.com/watch?v=WRXGDa0AftQ&list=PLjCd4HiNMh9ldHsFI4199zLm_AAkJmFGY)
+### All Trailer & Showcase Videos (https://www.youtube.com/watch?v=WRXGDa0AftQ&list=PLjCd4HiNMh9ldHsFI4199zLm_AAkJmFGY)
 
 # Essentials:
 
