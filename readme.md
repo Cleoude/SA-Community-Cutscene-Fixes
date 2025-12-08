@@ -21,6 +21,10 @@
 - Skygfx (For Cutscene Object Prelights)
 - Mobile Hands (Extras Optional)
 
+# Videos
+
+### All Trailer & Showcase Videos(https://www.youtube.com/watch?v=WRXGDa0AftQ&list=PLjCd4HiNMh9ldHsFI4199zLm_AAkJmFGY)
+
 # Essentials:
 
 ### Download: [Ultimate ASI Loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/tag/v8.2.0)
@@ -142,6 +146,7 @@
 - Snakehead
 - Triad Mechanic
 - Patrol Invest Group Peds
+- Artwork Latina Girl
 
 **Antonín Šimara**
 - Gangs & Characters

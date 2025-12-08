@@ -727,3 +727,8 @@
 - Kendl’s CJ holding fixed
 - Patrol Invest Group added for dock security in this mission
 - New Security Car added in the game
+
+# Puncture Wounds
+- Garage doors added as cutscene object
+- Artwork Cesar Outfit added
+- Artwork Latina Girl added as Crazy b*tch
