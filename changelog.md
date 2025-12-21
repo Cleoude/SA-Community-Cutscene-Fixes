@@ -732,3 +732,8 @@
 - Garage doors added as cutscene object
 - Artwork Cesar Outfit added
 - Artwork Latina Girl added as Crazy b*tch
+
+# Monster
+- CS Mechanics added
+- Mouth animation added to mechanic
+- Wrench animation fixed
