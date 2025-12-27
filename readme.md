@@ -147,6 +147,7 @@
 - Triad Mechanic
 - Patrol Invest Group Peds
 - Artwork Latina Girl
+- Toreno New Outfit
 
 **Antonín Šimara**
 - Gangs & Characters

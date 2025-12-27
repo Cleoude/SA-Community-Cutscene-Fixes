@@ -737,3 +737,11 @@
 - CS Mechanics added
 - Mouth animation added to mechanic
 - Wrench animation fixed
+
+# Highjack
+- Toreno has new look and outfit in Desert Missions
+- Camera transition and Toreno’s fast arm anim fixed
+- Camera transition fixed
+- Subtitle timing fixed
+- Cesar has new outfit in desert
+- Truck Driver changed
