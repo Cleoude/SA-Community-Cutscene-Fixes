@@ -76,7 +76,7 @@ MTRU02A ~z~What's happening?
 GAR1C06 ~z~√èrale, let's get to work.
 GAR1c26 ~z~Ey!
 GAR3a12 ~z~Yeeah!
-SYN1_LB ~z~We better split up and get outta here. I'll meet you back at the garage, eh!
+SYN1_YJ ~z~We better split up and get outta here. I'll meet you back at the garage, eh!
 SYN2a25 ~z~Eh, cabron.
 SYN2a26 ~z~A'ight.
 SYN2b21 ~z~You my playa partner now, Jizzy.
@@ -95,3 +95,15 @@ SCR2@26 ~z~Hm-hmm.
 SYN4B06 ~z~What a dick!
 SYN5_JB ~z~^Oh, Dios m¢o, my boat!
 SYN6_09 ~z~
+MTOR01A ~z~Speak on it.
+SYN5_GM ~z~Too late, man, he's tripping out, holmes!
+WOO2@16 ~z~Yeah, although I've trained my other senses to a point
+INT1B04 ~z~- Not for the past 5 years she wasn't, nigga.~n~- Oh, come on with this...
+INT1B09 ~z~- they ain't nothin' but low lives.~n~- Look, I love him! And what the fuck are you?
+INT1B29 ~z~- Oh, shit - here we go again.~n~- Fucking asshole.
+GAR1_AG ~z~Last I heard, he was working at a garage over Easter Basin.
+STL5_AA ~z~Hey, CJ, how's it going with that crazy bitch, eh?
+DES2_AD ~z~You phoned me a half an hour ago!
+DES2_FB ~z~Just a little closer, holmes!
+STL5_AD ~z~OK, careful with that puncture repair shit, it's nasty stuff!
+FAR5A03 ~z~As soon as we leave, they will attempt an assassination.
