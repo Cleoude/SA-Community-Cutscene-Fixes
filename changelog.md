@@ -67,6 +67,113 @@
 - Riot Police and Swat have been added (only for LS). Cops wear Riot helmets and Swat wear green vests and use M4.
 - Army uses Patriot
 
+## Details Update
+
+#Big Smoke
+- Eye and blink animations added for smoke
+
+#Sweet Kendl
+- unused subtitles added
+- Eye and blink animations added 
+
+#Ryder
+- Eye and blink animations added for ryder
+
+#Tagging Up Turf
+- Eye and blink animations added for smoke
+
+#Cleaning The Hood
+- unused subtitles added
+- Eye and blink animations added
+
+#Drive Thru Outro
+- Eye and blink animations added for ryder
+
+#Nines and AK's
+- Eye and blink animations added for ryder
+
+#Home Invasion
+- Eye and blink animations added for ryder
+
+#Cesar Vialpando
+- Kendl's suitcase grip fixed
+
+#Catalyst
+- Eye and blink animations added for ryder
+
+#Gray Imports
+- Camera FOV fixed for CMF
+
+#Robbing Uncle Sam
+- Eye and blink animations added for ryder
+
+#Management Issues
+- Burger tray missing burger texture fixed
+
+#House Party
+- Eye and blink animations added for ryder
+
+#High Stakes, Lowrider
+- Eye and blink animations added
+
+#Reuniting the Families
+- Eye and blink animations added for ryder
+
+#The Green Sabre Outro
+- Eye and blink animations added
+
+#First Date
+- Catalina's knife holding fixed in the end.
+
+#Wu Zi Mu
+- Eye and blink animations added for Sofybu
+
+#Are you going to San Fierro
+- Silence fixed at the end, chopper sound added
+
+#Wear Flowers on your hair
+- Subtitle fixed
+
+#Deconstruction
+- Cscloth has new texture
+
+#Photo Opportunity
+- Subtitle Fixed
+
+Lure
+- Subtitle fixed 
+
+#Outrider
+- Washington suspension added when cj gets in
+
+#Amphibious Assault
+- Subtitle fixed
+
+#Pier 69
+- Subtitle Fixed
+
+#Yay Ka-Boom-Boom
+- Chair moves when CJ stands up
+
+#Customs Fast Track
+- Cesar gives money to his boy
+
+#Puncture Wounds
+- Cesar kicks a barrel
+- Subtitles fixed
+
+#Highjack
+- Shaking fixed for Toreno and CJ
+- Subtitle timing fixed
+- Subtitles Fixed
+
+#Issues fixed
+- LPP Ryder5 added
+- Mobile Hands Catalina fixed
+- Torino2 Teeth Fixed
+- Vanilla Hernandez fixed (Hands were mobile)
+
+
 ## LS Missions
 
 # Prologue 1
