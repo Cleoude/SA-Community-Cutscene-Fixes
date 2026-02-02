@@ -369,6 +369,7 @@ Lure
 - Lowrider Meet Added to Cutscene (Cleo)
 - Fixed CJ's mouth not moving when shaking hands with Cesar
 - Kendl is sitting in the car
+- Jose's neck fixed (update)
 
 # OG Loc 1
 - Subtitle Time Fixed
@@ -852,3 +853,11 @@ Lure
 - Subtitle timing fixed
 - Cesar has new outfit in desert
 - Truck Driver changed
+
+# Interdiction
+- Toreno has new look and outfit in Desert Missions
+- Seat chair improved
+- Missing subtitles added
+- Subtitle timing fixed
+- Toreno’s weird facial animation fixed
+- Toreno’s open mouth fixed in the end
