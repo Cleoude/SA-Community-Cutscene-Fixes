@@ -861,3 +861,20 @@ Lure
 - Subtitle timing fixed
 - Toreno’s weird facial animation fixed
 - Toreno’s open mouth fixed in the end
+
+# Verdant Meadows
+- Toreno has new look and outfit in Desert Missions
+- Conspiracy Theories book improved
+- Seat chair improved
+- DE animation used for Toreno
+- Toreno's mouth movements when he wasn't actually talking fixed
+- Whiskey and glass added
+- He pours it into his own glass, and the glass is truly filled with whiskey.
+- Sound effects added to Cutscene audio
+- Subtitle timing fixed
+- Toreno is putting ice in his whiskey.
+- Subtitle fixed
+- Toreno holds his whiskey
+- Toreno now touching CJ
+- Missing subtitles added
+- Toreno puts his whiskey to table

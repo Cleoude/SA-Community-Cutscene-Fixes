@@ -132,6 +132,7 @@
 - Jizzy's phone
 - Play Cards
 - Security Car
+- Whiskey, glass and ices
 
 **Zacary_08**
 - Mobile Hands Support
@@ -251,3 +252,6 @@ Cops Armor Script
 **LC01**
 - LC01 Claude
 - Duffel bag
+
+**Almico(LPP)**
+- LPP
