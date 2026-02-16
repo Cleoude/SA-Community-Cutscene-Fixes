@@ -279,6 +279,11 @@
 <p align="center">
   <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/82.jpg" alt="screenshot82">
 </p>
+</p>
+<p align="center">
+  <img width="2000" src="https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/.cdimages/screenshots/83.jpg" alt="screenshot83">
+</p>
+
 
 
 

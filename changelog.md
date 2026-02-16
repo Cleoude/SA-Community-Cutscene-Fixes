@@ -878,3 +878,7 @@ Lure
 - Toreno now touching CJ
 - Missing subtitles added
 - Toreno puts his whiskey to table
+
+# N.O.E.
+- Toreno has new look and outfit in Desert Missions
+- DE animation used for Toreno
