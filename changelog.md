@@ -881,4 +881,7 @@ Lure
 
 # N.O.E.
 - Toreno has new look and outfit in Desert Missions
-- DE animation used for Toreno
+- Washington added to scene
+- Added struggle facial animation to CJ
+- Rustler and ammo Capsules added to scene
+- Cutscene position changed because cj’s direction
