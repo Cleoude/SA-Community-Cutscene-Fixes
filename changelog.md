@@ -682,7 +682,7 @@ Lure
 - Cesar has new outfit outside LS
 - Ryder has new outfit outside LS
 - Introduction Balla added as Ryder's Bodyguard
-- Fixed Jizzy's inverted hairstyle that did not match the cutscene version.
+- CJ and Cesar's voices are updated.
 
 # Jizzy
 - Woozie now has artwork appearance.

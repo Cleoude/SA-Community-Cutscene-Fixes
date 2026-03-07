@@ -83,6 +83,7 @@
 - Mexican Driver
 - Jizzy's Club Waiters
 - Ice Cold Killa #1 Audio
+- Voice AI
 
 **brooklynzsmac**
 - Stewardess
@@ -240,6 +241,9 @@ Cops Armor Script
 
 **Arturo Casasnovas**
 - Eat Burger Anim
+
+**Sergiu**
+- Voice AI
 
 # Big Thanks to:
 
