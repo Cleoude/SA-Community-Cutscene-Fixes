@@ -885,3 +885,15 @@ Lure
 - Added struggle facial animation to CJ
 - Rustler and ammo Capsules added to scene
 - Cutscene position changed because cj’s direction
+
+# Stowaway
+- Cutscene position changed and CJ & Toreno rotated toward to them
+- Cutscene objects improved & Cutscene peds added
+- Box & Bobcat animations improved
+- BMYMIB’s Rifle holding fixed
+- CJ’s holding the box fixed
+- Box model Improved
+- Toreno has new look and outfit in Desert Missions
+- Toreno’s neck fixed
+- CJ’s neck fixed
+- Toreno’s colliding to box fixed

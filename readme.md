@@ -84,6 +84,7 @@
 - Jizzy's Club Waiters
 - Ice Cold Killa #1 Audio
 - Voice AI
+- WMOMIB Face Improvement 
 
 **brooklynzsmac**
 - Stewardess
@@ -102,10 +103,11 @@
 - FBI Models
 - Army Models
 - New Color for LSPD Uniforms
-- New Desert Eagle Model For Cutscene
 - LPP Chars (Extras)
 - Jizzy's Stripper
-- Finalized Beta Kendl 
+- Finalized Beta Kendl
+- Cutscene Weapon models
+- BMYMIB Face Improvement 
 
 **deadman23**
 - Cutscene Peds
@@ -134,6 +136,7 @@
 - Play Cards
 - Security Car
 - Whiskey, glass and ices
+- Cutscene Vehicles
 
 **Zacary_08**
 - Mobile Hands Support
@@ -217,6 +220,7 @@ Cops Armor Script
 
 **_Rob_**
 - Miami Claude
+- Voice AI
 
 **xcold**
 - Colt45
