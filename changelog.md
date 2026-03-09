@@ -670,6 +670,7 @@ Lure
 - Valets' shirts are identical in appearance to CJ's Valet Uniform.
 - D.A. has special model.
 - Fixed Cop’s holding pistol
+- Added slap sound when cop hits
 
 # Deconstruction
 - Jethro and Dwayne have their appearance in the artwork

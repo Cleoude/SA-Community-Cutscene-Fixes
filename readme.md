@@ -249,6 +249,9 @@ Cops Armor Script
 **Sergiu**
 - Voice AI
 
+**kafkasion**
+- 555 We Tip Sound Effect
+
 # Big Thanks to:
 
 **ViperJohnGR**
