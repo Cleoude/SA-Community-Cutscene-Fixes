@@ -168,7 +168,7 @@
 - Detectives
 - Better Peds Vary
 
-**Sergui**
+**Sergiu**
 - Voice AI
 
 **Ricky Retriever**
@@ -245,9 +245,6 @@ Cops Armor Script
 
 **Arturo Casasnovas**
 - Eat Burger Anim
-
-**Sergiu**
-- Voice AI
 
 **kafkasion**
 - 555 We Tip Sound Effect
