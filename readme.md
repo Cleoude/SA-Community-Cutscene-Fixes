@@ -37,7 +37,7 @@
 # Recommended:
 
 ### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes)
-> Make sure CMF has a higher priority set in the modloader!
+> Make sure CCF has a higher priority set in the modloader!
 ### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
 ### Download: [Personal Vehicle](https://www.youtube.com/watch?v=B4D7h8Tdi54)
 ### Download: [endochronic's thrift store](https://gtaforums.com/topic/985222-endochronics-thrift-store/)
