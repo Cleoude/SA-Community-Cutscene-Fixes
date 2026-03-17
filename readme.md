@@ -95,7 +95,6 @@
 - Donut Vendor
 - Grass
 - Kane
-- Gore Cop
 - Sweet Wounded
 - Artwork Catalina
 - Better Peds Vary
@@ -126,7 +125,6 @@
 - Githup Repo
 
 **mpPako**
-- Map changes & Objects
 - Police Vehicles
 - Loco Syndicate Photos
 - Rice Rice Baby :trollface:
@@ -158,8 +156,6 @@
 
 **pylasen**
 - 2dfx Sirens 
-- Prelight Fixes
-- Models
 
 **TareqGamer**
 - Sweet Wounded
@@ -183,13 +179,13 @@
 - Support & Analyst
 
 **Masked Man**
-- Improved textures
+- Ideas
 
 **ICantReadYourMind**
 - ModelVariations Support
 
 **B1ack_&_Wh1te**
-Cops Armor Script
+- Cops Armor Script
 
 **SAMP Team** 
 - Handcuff Model
