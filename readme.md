@@ -84,7 +84,8 @@
 - Jizzy's Club Waiters
 - Ice Cold Killa #1 Audio
 - Voice AI
-- WMOMIB Face Improvement 
+- WMOMIB Face Improvement
+- Desert Truth Base & Rig Fix 
 
 **brooklynzsmac**
 - Stewardess
@@ -163,6 +164,7 @@
 - New Cesar Outfit Fix
 - Detectives
 - Better Peds Vary
+- Desert Truth
 
 **Sergiu**
 - Voice AI

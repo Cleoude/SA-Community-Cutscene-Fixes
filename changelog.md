@@ -898,3 +898,16 @@ Lure
 - Toreno’s neck fixed
 - CJ’s neck fixed
 - Toreno’s colliding to box fixed
+
+# Black Project
+- CJ has fat walkstyle in cutscene now
+- Truth is calling CJ on time
+- Truth has new outfit in Desert Missions
+- Truth has cellphone in cutscene now
+- CJ’s holding the phone fixed and CJ’s cellphone added
+- Mothership added in cutscene
+- Truth height position fixed
+- Sand effect added when Truth landed
+- Truth’s leg animations fixed
+- Truth doesn’t collide the wreck plane now
+- CJ and Truth don’t go through to wreck plane
