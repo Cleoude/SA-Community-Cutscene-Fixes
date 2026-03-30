@@ -4,6 +4,8 @@ objs
 17994, joystick, cj_games, 150, 128
 17995, sweetshall2, sweetshall, 40, 1
 17997, fries, chick_tray, 40, 1
+17998, goolightA, gloopx, 150, 128
+17999, goolightB, gloopx, 150, 128
 end
 txdp
 csvoodoo, voodoo

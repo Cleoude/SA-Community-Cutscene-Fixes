@@ -911,3 +911,18 @@ Lure
 - Truth’s leg animations fixed
 - Truth doesn’t collide the wreck plane now
 - CJ and Truth don’t go through to wreck plane
+
+# Green Goo
+- CJ has fat walkstyle in cutscene now
+- Facial animations added to CJ, so he is moving his mouth now.
+- CJ’s cellphone added
+- Barrel Improved
+- Barrel’s bottom removed, so you can see truth’s body more
+- Truth has new outfit in Desert Missions
+- Jetpack model Improved
+- Facial animation added for CJ when he says “What do you mean, you don’t know yet?”
+- Silly smile removed from CJ
+- Green goo model improved and lighting added to object
+- CJ’s height position fixed
+- Truth’s hand animation fixed
+- Green goo ig model improved and added lighting in mission.
