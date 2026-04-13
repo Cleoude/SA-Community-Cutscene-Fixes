@@ -107,7 +107,8 @@
 - Jizzy's Stripper
 - Finalized Beta Kendl
 - Cutscene Weapon models
-- BMYMIB Face Improvement 
+- BMYMIB Face Improvement
+- Wuzimu New Outfit 
 
 **deadman23**
 - Cutscene Peds
@@ -137,6 +138,7 @@
 - Whiskey, glass and ices
 - Cutscene Vehicles
 - Green Goo
+- Casino Items
 
 **Zacary_08**
 - Mobile Hands Support

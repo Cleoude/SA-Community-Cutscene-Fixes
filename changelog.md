@@ -926,3 +926,17 @@ Lure
 - CJ’s height position fixed
 - Truth’s hand animation fixed
 - Green goo ig model improved and added lighting in mission.
+
+# Fender Ketchup
+- Woozie has new outfit in LV Missions
+- Woozie’s floating fixed and camera adjusted
+- Phone animation fixed
+- Phone is on ground now
+- Janitor added
+- Hatch’s prelight fixed
+- Pliers and new tool box added
+- Bar table and Ice bucket added
+- Bottle added on the table
+- Triada’s facials fixed
+- Triada2’s open mouth fixed
+- CJ puts the glass to table
