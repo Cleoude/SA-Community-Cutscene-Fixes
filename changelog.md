@@ -940,3 +940,12 @@ Lure
 - Triada’s facials fixed
 - Triada2’s open mouth fixed
 - CJ puts the glass to table
+
+# Explosive Situation
+- Woozie has new outfit in LV Missions
+- Golf Stick and Golf ball improved
+- New Ecola cup model added
+- Triada is looking to Woozie now
+- Golf Stick’s rotation fixed
+- Cup’s height position fixed
+- Woozie’s holding fixed
