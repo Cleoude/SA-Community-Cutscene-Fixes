@@ -949,3 +949,17 @@ Lure
 - Golf Stick’s rotation fixed
 - Cup’s height position fixed
 - Woozie’s holding fixed
+
+# You've Had Your Chips
+- Woozie has new outfit in LV Missions
+- Table, cards and chair improved
+- Logger beer and glasses added
+- Chair moves when CJ stands up
+- CJ Flips cards now
+- Chip height position fixed
+- Chips have new textures 
+- CJ points the fake chip correctly
+- The issue where the score Woozie received did not match the cards has been resolved.
+- When Woozie bangs on the table, the chips jump and rattle
+- CJ’s passing through the chair fixed
+- New Sindacco skins added

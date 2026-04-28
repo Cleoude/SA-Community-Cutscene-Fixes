@@ -109,6 +109,7 @@
 - Cutscene Weapon models
 - BMYMIB Face Improvement
 - Wuzimu New Outfit 
+- Sindaccos
 
 **deadman23**
 - Cutscene Peds
@@ -140,6 +141,10 @@
 - Green Goo
 - Casino Items
 - Golfball
+- Pakosfavoritestuff :trollface:
+- Chair
+- Long Casino Table
+- Chips
 
 **Zacary_08**
 - Mobile Hands Support
@@ -175,6 +180,7 @@
 
 **Ricky Retriever**
 - Motorcycle Cops
+- Sindacco From Introduction
 
 **RRT94**
 - Jethro & Dwayne Nametags
