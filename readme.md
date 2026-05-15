@@ -110,6 +110,8 @@
 - BMYMIB Face Improvement
 - Wuzimu New Outfit 
 - Sindaccos
+- Maccer and Paul dirty
+- Rosenberg
 
 **deadman23**
 - Cutscene Peds
@@ -145,6 +147,7 @@
 - Chair
 - Long Casino Table
 - Chips
+- Caligula casino Door
 
 **Zacary_08**
 - Mobile Hands Support
@@ -181,6 +184,7 @@
 **Ricky Retriever**
 - Motorcycle Cops
 - Sindacco From Introduction
+- Texans
 
 **RRT94**
 - Jethro & Dwayne Nametags

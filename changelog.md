@@ -963,3 +963,15 @@ Lure
 - When Woozie bangs on the table, the chips jump and rattle
 - CJ’s passing through the chair fixed
 - New Sindacco skins added
+
+# Don Peyote
+- CJ’s cellphone added 
+- Paul and Maccer’s clothes are dirty, their beards are unkempt, and they’re hungover
+- Character’s floating and under the ground fixed
+- Rag has new texture
+- Texan added to snake farm
+- Rosie has Introduction outfit as default now
+- Door Model Improved
+- Mike changed to mafgoon2
+- Paul's squint fixed
+- Tony Parrot and parrot perch added to the scene
