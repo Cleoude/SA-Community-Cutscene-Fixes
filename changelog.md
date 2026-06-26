@@ -23,11 +23,7 @@
 - OG Loc's final textures used Now with Black tattoos
 - Smoke’s Cutscene Objects added to in game
 - Fan has a animation in Sweet's house
-- Gang Groups added for Families and Ballas
-- 2 extra members added to the gangs 
 - PS2 Object data added
-- Ballas will drive Voodoo on traffic now. 
-- Impaler added on traffic.
 - CRASH has new outfits outside LS
 - CRASH uses Unmarked Vehicle outside LS (4 color options in extras)
 - Cesar and Kendl have new outfits outside LS
@@ -51,8 +47,17 @@
 - Some peds are restored
 - Vehicle Lines.txt removed because some issues in game. We had to use dat and handling filesç
 
+## DLC's
+
+# Gangs
+- Gang Groups added for Families and Ballas
+- 2 extra members added to the gangs 
+- Ballas will drive Voodoo on traffic now. 
+- Impaler added on traffic.
+- Forellis, Sindaccos added.
+
 #Law Enforcement
-- Each city has its own motorcycle cop, swat team.
+- Each city has its own motorcycle cop, swat team, heli pilot.
 - Desert sherriff restored.
 - LSPD uniforms are now dark blue.
 - Fixed the badge model of the LSPD Motor Cop.
@@ -66,112 +71,6 @@
 - Police Helicopters have different tail numbers.
 - Riot Police and Swat have been added (only for LS). Cops wear Riot helmets and Swat wear green vests and use M4.
 - Army uses Patriot
-
-## Details Update
-
-#Big Smoke
-- Eye and blink animations added for smoke
-
-#Sweet Kendl
-- unused subtitles added
-- Eye and blink animations added 
-
-#Ryder
-- Eye and blink animations added for ryder
-
-#Tagging Up Turf
-- Eye and blink animations added for smoke
-
-#Cleaning The Hood
-- unused subtitles added
-- Eye and blink animations added
-
-#Drive Thru Outro
-- Eye and blink animations added for ryder
-
-#Nines and AK's
-- Eye and blink animations added for ryder
-
-#Home Invasion
-- Eye and blink animations added for ryder
-
-#Cesar Vialpando
-- Kendl's suitcase grip fixed
-
-#Catalyst
-- Eye and blink animations added for ryder
-
-#Gray Imports
-- Camera FOV fixed for CMF
-
-#Robbing Uncle Sam
-- Eye and blink animations added for ryder
-
-#Management Issues
-- Burger tray missing burger texture fixed
-
-#House Party
-- Eye and blink animations added for ryder
-
-#High Stakes, Lowrider
-- Eye and blink animations added
-
-#Reuniting the Families
-- Eye and blink animations added for ryder
-
-#The Green Sabre Outro
-- Eye and blink animations added
-
-#First Date
-- Catalina's knife holding fixed in the end.
-
-#Wu Zi Mu
-- Eye and blink animations added for Sofybu
-
-#Are you going to San Fierro
-- Silence fixed at the end, chopper sound added
-
-#Wear Flowers on your hair
-- Subtitle fixed
-
-#Deconstruction
-- Cscloth has new texture
-
-#Photo Opportunity
-- Subtitle Fixed
-
-Lure
-- Subtitle fixed 
-
-#Outrider
-- Washington suspension added when cj gets in
-
-#Amphibious Assault
-- Subtitle fixed
-
-#Pier 69
-- Subtitle Fixed
-
-#Yay Ka-Boom-Boom
-- Chair moves when CJ stands up
-
-#Customs Fast Track
-- Cesar gives money to his boy
-
-#Puncture Wounds
-- Cesar kicks a barrel
-- Subtitles fixed
-
-#Highjack
-- Shaking fixed for Toreno and CJ
-- Subtitle timing fixed
-- Subtitles Fixed
-
-#Issues fixed
-- LPP Ryder5 added
-- Mobile Hands Catalina fixed
-- Torino2 Teeth Fixed
-- Vanilla Hernandez fixed (Hands were mobile)
 
 
 ## LS Missions
@@ -232,6 +131,8 @@ Lure
 - Fixed Big Smoke holding CJ's hand
 - Hug animation taken from Definitive Edition and edited because It is more realistic
 - Mom's photo cracks after Smoke throws bat
+- Eye and blink animations added for smoke
+- CJ and Smoke are not colliding each other in the end.
 
 
 # Sweet & Kendl
@@ -243,6 +144,8 @@ Lure
 - Kendl places flowers on the grave
 - Ryder uses dippo lighter when smokes
 - Ryder's glitch fixed
+- unused subtitles added
+- Eye and blink animations added 
 
 # Big Smoke Gameplay
 - Fixed Big Smoke’s Line Subtitle
@@ -259,6 +162,7 @@ Lure
 - When Ryder puts out his cigarette, no smoke comes out
 - Added Ryder's stove and cookware
 - Ryder puts out his cigarette in the Ashtray
+- Eye and blink animations added for ryder
 
 # Tagging up Turf Cutscene
 - Fixed Smoke dribbling the basketball, ensuring the ball goes through the hoop
@@ -268,6 +172,7 @@ Lure
 - Corrected Sweet's crooked neck when handing over the spray can and added a cap to it
 - Fixed Sweet taking the basketball from Smoke
 - Fixed Sweet's arm clipping through himself when he jumps
+- Eye and blink animations added for smoke
 
 # Tagging up Turf Gameplay
 - Restored Sweet's reaction when CJ crashes the car
@@ -283,6 +188,8 @@ Lure
 - Fixed Ryder's mouth not moving while saying "hmm yeah"
 - Fixed Ryder disappearing in the scene and made him puff the cigarette
 - Fixed floating smoke
+- unused subtitles added
+- Eye and blink animations added
 
 # Cleaning the Hood 2
 - Fixed CJ's hand clipping through his pants while walking
@@ -305,6 +212,7 @@ Lure
 
 # Drive Thru Cutscene 2
 - T-pose Fixed homies are in the car now
+- CJ holds steering wheel now.
 - The first camera now moves smoothly before, it was just like it was stuttering
 - Cluckin bell Drive-thru menu restored
 - CJ reacts to Smoke's order with his eyebrows
@@ -314,6 +222,7 @@ Lure
 - Voodoo’s model improved and exhaust smoke added
 - Fixed CJ not moving his mouth in his final speech
 - Smoke added to drift and ballas members added inside
+- Eye and blink animations added for ryder
 
 # Drive Thru Gameplay
 - Fixed seat placements after cutscene
@@ -328,6 +237,7 @@ Lure
 - Dominoes fixed
 - Wooden chair under Sweet removed
 - Ryder’s line added to subtitles
+- Eye and blink animations added for ryder
 
 # Nines and AK's 2
 - Pistol changed, Fixed Emmet's eyes not looking at it
@@ -371,6 +281,10 @@ Lure
 - Kendl is sitting in the car
 - Jose's neck fixed (update)
 
+# Home Invasion
+- Added effect when Ryder digs in the ground
+- Eye and blink animations added for ryder
+
 # OG Loc 1
 - Subtitle Time Fixed
 
@@ -389,6 +303,7 @@ Lure
 - Fixed OG Loc's Mouth
 - Removed unnecessary camera angle (First camera angle in cutscene, Idk why they added here)
 - Floating fixed
+- New mopbucket Model addded
 
 # Madd Dogg's Rhymes Cutscene
 - Fixed OG Loc holding the mop
@@ -396,6 +311,7 @@ Lure
 - Toilet door fixed and added prelight
 - Fixed OG Loc not touching CJ
 - Camera timings fixed at transition
+- New mopbucket Model addded
 
 # Madd Dogg's Rhymes Gameplay
 - CJ wears balaclava and this makes the mission and stealth more realistic
@@ -432,6 +348,7 @@ Lure
 - Fixed Ryder and Tenpenny holding the bottle
 - Pulaski’s dissappear fixed you can see his arm
 - Ryder stirs the pot with the spoon
+- Eye and blink animations added for ryder
 
 # Los Sepulcros
 - Cutscene location changed
@@ -449,11 +366,13 @@ Lure
 - Interior door used for Rusty brown’s Exterior
 - Tenpenny's shaking fixed
 - Fixed Tenpenny holding CJ
+- Camera FOV fixed for DMCA
 
 # Robbing Uncle Sam
 - Fixed Ryder going through the deck chair
 - Fixed Ryder getting on the deck chair
 - Boombox added
+- Eye and blink animations added for ryder
 
 # Running Dog 1
 - Door Model Improved
@@ -480,6 +399,7 @@ Lure
 - Garage door position fixed
 - Coffee cup added and ryder’s cigar model changed to cigarette
 - Fixed CJ’s talk Animation “it’s ped.ifp animation” (extras)
+- Pulaski's anim fixed
 
 # Just Business
 - Fixed floating of peds sitting on the chair
@@ -511,6 +431,7 @@ Lure
 - Missing lines added
 - Cigar added for Ryder
 - Fam2 replaced to Fam5 (since he was already out)
+- Eye and blink animations added for ryder
 
 # House Party 3
 - Cutscene positions fixed
@@ -528,12 +449,15 @@ Lure
 # High Stakes, Lowrider
 - Fixed Kendl not moving her mouth
 - Kendl has better in game model now 
+- Eye and blink animations added
+- CJ no longer leans toward Cesar's car to talk to him; CJ stands there
 
 # Reuniting the Families Cutscene
 - Fixed Smoke's hand going through him
 - TV’s position changed for this cutscene
 - Fixed CJ is not moving his mouth when he is saying finally
 - Fixed CJ is not moving his mouth when he is saying let’s do this
+- Eye and blink animations added for ryder
 
 # Reuniting the Families Gameplay
 - Seville Boulevard and Temple Drive Families added
@@ -559,6 +483,7 @@ Lure
 - Fixed Smoke's head going through the door
 - Tenpenny talks to Smoke
 - Dippo added for Ryder and effects improved
+- Eye and blink animations added
 
 # The Green Sabre Gameplay
 - Mouth movement added for Cesar’s phonecall
@@ -596,6 +521,7 @@ Lure
 - Scar added to cowboy
 - Fixed Catalina walking the wrong way
 - Mr. Whittaker has special model now.
+- Catalina's knife holding fixed in the end.
 
 # Body Harvest
 - Bong Model Improved
@@ -635,6 +561,7 @@ Lure
 - CJ’s object holdings fixed
 - New business card added for woozie and its animation fixed
 - Miami outfit added to Claude
+- Eye and blink animations added for Sofybu
 
 # Farewell, My Love...
 - New Claude Model added
@@ -654,6 +581,7 @@ Lure
 - Truth now helps with torching stuffs.
 - Truth smokes in the car
 - CJ takes out his phone while making a phone call
+- Silence fixed at the end, chopper sound added
 
 # Wear Flowers in Your Hair
 - Kendl and Cesar's hand-holding fixed
@@ -662,6 +590,7 @@ Lure
 - Truth added to outro cutscene
 - Dwayne has new outfit before starting work in the garage
 - Jethro's grip on the broom fixed
+- New broom Model added
 
 # 555 WE TIP
 - Garage doors added as cutscene object
@@ -678,6 +607,7 @@ Lure
 - Garage doors added as cutscene object
 - Bmycon added as wmycon variation
 - Foreman model changed to wmyconb
+- Cscloth has new texture
 
 # Photo Opportunity
 - Cesar has new outfit outside LS
@@ -737,7 +667,8 @@ Lure
 - New 3d Steering Wheel
 - T-Bone’s pistol holding fixed
 - Animation position of CJ and T-Bone was edited because the animation was made for high roof.
-- Mike Toreno holding on to the car also edited.
+- Mike Toreno holding on to the car also edited
+- Washington suspension added when cj gets in.
 
 # Amphibious Assault
 - CJ takes off his clothes before jumps.
@@ -763,6 +694,7 @@ Lure
 - CJ’s hand colliding to savanna fixed
 - Garage Trolley improved
 - Pimpmobile added to the garage. Jethro and Dwayne are chopping it up.
+- Cigar added to Dwayne.
 - Cesar's colliding into the trolley fixed
 - Silenced Pistol improved
 - CJ’s pistol holding fixed.
@@ -811,6 +743,7 @@ Lure
 - Woozie and Triad member removed before appeared(I forgot to mention this in video)
 - Artwork Triad added to scene
 - Woozie’s arms fixed
+- Chair moves when CJ stands up
 
 # Zeroing In
 - Garage doors added as cutscene object
@@ -825,6 +758,7 @@ Lure
 - Garage doors added as cutscene object
 - Artwork Cesar Outfit added
 - Floating cigar removed
+- Cigarette changed to b*unt.
 
 # Customs Fast Tracks
 - Garage doors added as cutscene object
@@ -836,16 +770,19 @@ Lure
 - Kendl’s CJ holding fixed
 - Patrol Invest Group added for dock security in this mission
 - New Security Car added in the game
+- Cesar gives money to his boy
 
 # Puncture Wounds
 - Garage doors added as cutscene object
 - Artwork Cesar Outfit added
 - Artwork Latina Girl added as Crazy b*tch
+- Cesar kicks a barrel
 
 # Monster
 - CS Mechanics added
 - Mouth animation added to mechanic
 - Wrench animation fixed
+- Mechanics have dialogues in cutscene now.
 
 # Highjack
 - Toreno has new look and outfit in Desert Missions
@@ -854,6 +791,7 @@ Lure
 - Subtitle timing fixed
 - Cesar has new outfit in desert
 - Truck Driver changed
+- Shaking fixed for Toreno and CJ
 
 # Interdiction
 - Toreno has new look and outfit in Desert Missions
@@ -975,3 +913,4 @@ Lure
 - Mike changed to mafgoon2
 - Paul's squint fixed
 - Tony Parrot and parrot perch added to the scene
+- Maccer's thumb fixed

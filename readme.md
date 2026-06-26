@@ -40,6 +40,8 @@
 > Make sure CCF has a higher priority set in the modloader!
 ### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
 ### Download: [Personal Vehicle](https://www.youtube.com/watch?v=B4D7h8Tdi54)
+### Download: [Mobile Hands CCF Version](https://drive.google.com/file/d/1ZCU7trys4ZPHhOjEyR1BSbix3TsVoMX8/view?usp=sharing)
+> Make sure Mobile Hands has a higher priority set in the modloader!
 ### Download: [endochronic's thrift store](https://gtaforums.com/topic/985222-endochronics-thrift-store/)
 > A lot of people have been asking about player clothes, and since he's on my team, it's worth contributing.
 
@@ -48,6 +50,7 @@
 ### Download: [Cutscene Fixes](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF.7z)
 ### Download: [Cutscene Audio](https://drive.google.com/file/d/1e8ts0bzk5dOACm7d_4oxx-xrO9-9ah4c/view?usp=sharing)
 ### Download: [Cutscene Fixes - Extras](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/releases/download/latest/SACCF-Extras.7z)
+> DLC's added to extras, Gangs, Impaler, Law Enforcement, Garageprops and Secucar are DLC now! If you want to remove dlc, you need to remove lines from Fla if dlc have them.
 #
 ### [Screenshots](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/screenshots.md)
 ### [Changelog](https://github.com/Cleoude/SA-Community-Cutscene-Fixes/blob/main/changelog.md)
@@ -85,7 +88,8 @@
 - Ice Cold Killa #1 Audio
 - Voice AI
 - WMOMIB Face Improvement
-- Desert Truth Base & Rig Fix 
+- Desert Truth Base & Rig Fix
+- Broom 
 
 **brooklynzsmac**
 - Stewardess
@@ -148,6 +152,7 @@
 - Long Casino Table
 - Chips
 - Caligula casino Door
+- Mopbucket
 
 **Zacary_08**
 - Mobile Hands Support
@@ -163,6 +168,11 @@
 - Patrol Invest Group Peds
 - Artwork Latina Girl
 - Toreno New Outfit
+- Forellis
+
+**nvbsl**
+- Sindacco Member
+- Forellis
 
 **Antonín Šimara**
 - Gangs & Characters
@@ -257,6 +267,9 @@
 
 **Arturo Casasnovas**
 - Eat Burger Anim
+
+**SlingShot753**
+- Artwork Families Member
 
 **kafkasion**
 - 555 We Tip Sound Effect

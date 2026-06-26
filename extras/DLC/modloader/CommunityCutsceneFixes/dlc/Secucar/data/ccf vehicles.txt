@@ -1,0 +1,5 @@
+#vehicles.ide
+14013, 	secucar, 	secucar, 	car, 		SOLAIR, 	SECUCAR, 	null,	normal,			10, 0,	0,			-1, 0.72, 0.72,			0
+
+#carcols.dat
+secucar, 1,53
