@@ -16,8 +16,7 @@
 - Fastman92 Limit Adjuster
 - Open Limit Adjuster
 - Effect Loader
-- PedSpec
-- ModelVariations
+- ModelVariations (Forked For CCF)
 - Skygfx (For Cutscene Object Prelights)
 - Mobile Hands (Extras Optional)
 
