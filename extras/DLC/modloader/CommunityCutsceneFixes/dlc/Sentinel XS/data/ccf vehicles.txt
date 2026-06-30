@@ -1,0 +1,8 @@
+#vehicles.ide
+14014,     sentxs,     sentinel,     car,         SENTINEL,     SENTXS,     null,    richfamily,     10,     0,    0,        -1, 0.7, 0.7,        0
+
+#carmods.dat
+sentxs, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw
+
+#carcols.dat
+sentxs, 25,0, 123,0, 117,0, 75,0, 61,0, 37,0, 14,0, 122,0
