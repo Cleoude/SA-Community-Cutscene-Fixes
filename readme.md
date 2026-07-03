@@ -88,7 +88,8 @@
 - Voice AI
 - WMOMIB Face Improvement
 - Desert Truth Base & Rig Fix
-- Broom 
+- Broom
+- Parrot Rig & UV 
 
 **brooklynzsmac**
 - Stewardess
@@ -115,6 +116,8 @@
 - Sindaccos
 - Maccer and Paul dirty
 - Rosenberg
+- Parrot
+- Sindacco with tracksuit & neck brace
 
 **deadman23**
 - Cutscene Peds
@@ -152,6 +155,7 @@
 - Chips
 - Caligula casino Door
 - Mopbucket
+- Sentinel XS
 
 **Zacary_08**
 - Mobile Hands Support
@@ -168,6 +172,7 @@
 - Artwork Latina Girl
 - Toreno New Outfit
 - Forellis
+- Forellis with medic uniform
 
 **nvbsl**
 - Sindacco Member

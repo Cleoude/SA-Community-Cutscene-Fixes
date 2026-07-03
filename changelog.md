@@ -914,3 +914,19 @@
 - Paul's squint fixed
 - Tony Parrot and parrot perch added to the scene
 - Maccer's thumb fixed
+
+# Intensive Care
+- Maccer’s height fixed
+- Rosie has Introduction outfit as default now
+- Mike changed to mafgoon2
+- Parrot is moving now
+- Paul is crossing his arms correctly.
+- Rosie’s thumb fixed
+- Parrot’s model improved and has wing with animation
+- CJ’s height fixed
+- Paul is holding on to the couch correctly.
+- Forellis added
+- Forellis have medic uniform in ambulance
+- Sentinel XS added 
+- Sindaccos added
+- Johnny Sindacco has tracksuit with neck brace now
