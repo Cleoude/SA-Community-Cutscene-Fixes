@@ -930,3 +930,20 @@
 - Sentinel XS added 
 - Sindaccos added
 - Johnny Sindacco has tracksuit with neck brace now
+
+# Meat Business
+- Now Ken is sniffing with his nose
+- Casino chair changed
+- Rosie has Introduction outfit as default now
+- Snow Lines added on the table
+- Cutscene door added
+- Ken's facepalm fixed
+- Ken's lip trembles when he's scared
+- The Goons standing there like robots fixed
+- Cutscene Sindacco Goons changed
+- Johnny Sindacco has tracksuit with neck brace now
+- Wheelchair improved and wheels have animation
+- The Goon's hand passing through the wheelchair fixed
+- Sindaccos added
+- Chair, goons and johnny sindacco added to scene after his death
+- When the Ken trapped in freezer, his voice echoes from inside it

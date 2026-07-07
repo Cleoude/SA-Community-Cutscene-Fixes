@@ -156,6 +156,7 @@
 - Caligula casino Door
 - Mopbucket
 - Sentinel XS
+- Wheelchair :trollface:
 
 **Zacary_08**
 - Mobile Hands Support
@@ -173,6 +174,7 @@
 - Toreno New Outfit
 - Forellis
 - Forellis with medic uniform
+- Sindacco Member
 
 **nvbsl**
 - Sindacco Member
@@ -281,7 +283,7 @@
 # Big Thanks to:
 
 **ViperJohnGR**
-- ModelVariations
+- ModelVariations (forked)
 
 **Jack**
 - Change NPC Model Support
