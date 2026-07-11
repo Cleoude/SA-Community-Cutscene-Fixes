@@ -179,6 +179,7 @@
 **nvbsl**
 - Sindacco Member
 - Forellis
+- Madd Dogg2
 
 **Antonín Šimara**
 - Gangs & Characters

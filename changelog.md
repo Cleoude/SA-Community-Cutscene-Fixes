@@ -947,3 +947,12 @@
 - Sindaccos added
 - Chair, goons and johnny sindacco added to scene after his death
 - When the Ken trapped in freezer, his voice echoes from inside it
+
+# Madd Dogg
+- Heckler1 & 2 skin color fixed
+- Subtitles fixed & edited
+- Madd Dogg has a new outfit and is drunk 
+- Dogg holds whiskey
+- Bottle Movement sounds added
+- Croupiers added to roof in game
+- Madd dogg has neck brace and trolley when cj brought to hospital
