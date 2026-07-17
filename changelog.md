@@ -956,3 +956,11 @@
 - Bottle Movement sounds added
 - Croupiers added to roof in game
 - Madd dogg has neck brace and trolley when cj brought to hospital
+
+# Fish In Barrel
+- Woozie has new outfit in LV Missions
+- Ran Fa Li has new outfit in Fish in Barrel
+- Bar table and Ice bucket added
+- Triada3 used in this scene
+- New Pen model added
+- Characters open their mouths while drinking
