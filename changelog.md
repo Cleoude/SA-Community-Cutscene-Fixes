@@ -964,3 +964,8 @@
 - Triada3 used in this scene
 - New Pen model added
 - Characters open their mouths while drinking
+
+# Architectural Espionage
+- Woozie has new outfit in LV Missions
+- CJ’s mouth fixed
+- Guards and Cops holding pistol with two hands in planning department
