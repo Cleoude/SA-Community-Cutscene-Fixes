@@ -980,4 +980,5 @@
 - Triada replaced and eyes fixed
 - CJ’s colliding to table fixed
 - CJ's box-holding animations fixed
+- Russian mafia member replaced with leone mafia member
 - Benny has special model and wears gimp suit now
