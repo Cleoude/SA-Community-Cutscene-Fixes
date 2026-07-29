@@ -969,3 +969,15 @@
 - Woozie has new outfit in LV Missions
 - CJ’s mouth fixed
 - Guards and Cops holding pistol with two hands in planning department
+
+# Key To Her Heart
+- Woozie has new outfit in LV Missions
+- Woozie’s neck fixed
+- CJ’s arm positions fixed
+- Heist Map Improved
+- Added prelights to CS objects
+- Door Model Improved
+- Triada replaced and eyes fixed
+- CJ’s colliding to table fixed
+- CJ's box-holding animations fixed
+- Benny has special model and wears gimp suit now

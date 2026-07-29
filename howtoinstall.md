@@ -35,8 +35,6 @@
 
 - Effect Loader (CCF has this, so no need to install)
 
-- PedSpec (CCF has this, so no need to install)
-
 - ModelVariations (CCF has modified version of this, so no need to install)
 
 - [Skygfx](https://github.com/aap/skygfx/releases) or Skygfx Extended (For Cutscene Object Prelights)
@@ -48,8 +46,8 @@
 
 # Recommended Stuff:
 
-### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes)
-> Make sure CCF has a higher priority set in the modloader! Pause Menu(Esc)/Options/Mod Configuration/Modifications/CommunutityCutsceneFixes/Priority. Increase Priorirty above 50. Defaut Priority is probably 50 on CMF(Community Map Fixes). So CCF's(Community Cutscene Fixes) should be higher.
+### Download: [Definitive Map Content Additions](https://github.com/UnitedMel/SA-Community-Map-Fixes)
+> Make sure CCF has a higher priority set in the modloader! Pause Menu(Esc)/Options/Mod Configuration/Modifications/CommunutityCutsceneFixes/Priority. Increase Priorirty above 50. Defaut Priority is probably 50 on D(Definitive Map Content Additions). So CCF's(Community Cutscene Fixes) should be higher.
 
 ### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
 > Download the mod in Video Description. Drop all files to game folder. If you don't want CJ's mourn, delete CJ's Mourn.cs and Momsgrave folder in Cleo Folder.

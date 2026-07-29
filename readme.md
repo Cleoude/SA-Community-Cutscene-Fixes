@@ -35,7 +35,7 @@
 
 # Recommended:
 
-### Download: [Community Map Fixes](https://github.com/UnitedMel/SA-Community-Map-Fixes)
+### Download: [Definitive Map Content Additions](https://github.com/UnitedMel/SA-Community-Map-Fixes)
 > Make sure CCF has a higher priority set in the modloader!
 ### Download: [CJ's Moms Grave](https://www.youtube.com/watch?v=LSpCCQmYDTg)
 ### Download: [Personal Vehicle](https://www.youtube.com/watch?v=B4D7h8Tdi54)
@@ -89,7 +89,9 @@
 - WMOMIB Face Improvement
 - Desert Truth Base & Rig Fix
 - Broom
-- Parrot Rig & UV 
+- Parrot Rig & UV
+- Heist Map Love Fist Texture
+- Benny 
 
 **brooklynzsmac**
 - Stewardess
@@ -157,6 +159,7 @@
 - Mopbucket
 - Sentinel XS
 - Wheelchair :trollface:
+- Heist Cutscene Objects
 
 **Zacary_08**
 - Mobile Hands Support
