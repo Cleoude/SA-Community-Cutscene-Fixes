@@ -982,3 +982,13 @@
 - CJ's box-holding animations fixed
 - Russian mafia member replaced with leone mafia member
 - Benny has special model and wears gimp suit now
+
+# Dam and Blast
+- Woozie has new outfit in LV Missions
+- Cutscene characters speak amid the clamor of the crowd
+- Triad models replaced
+- Heist Map Improved
+- Door Position Fixed
+- Heckler1’s shoulder fixed
+- Janitor’s walk fixed
+- Zero’s neck fixed
