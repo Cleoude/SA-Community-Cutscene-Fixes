@@ -992,3 +992,13 @@
 - Heckler1’s shoulder fixed
 - Janitor’s walk fixed
 - Zero’s neck fixed
+
+# Cop Wheels
+- Woozie has new outfit in LV Missions
+- Heist Map Improved
+- Character's swapped
+- Zero’s colliding to chair fixed
+- Zero’s arm fixed
+- Characters restored
+- Biker Cops holding pistol with two hands in mission
+- Triad Mechanic added
