@@ -1002,3 +1002,10 @@
 - Characters restored
 - Biker Cops holding pistol with two hands in mission
 - Triad Mechanic added
+
+# Air Raid
+- RC toys added to shelf
+- Zero fixes RC Bandit
+- Zero's hand going through the hat fixed
+- Zero's arm going through the hat fixed
+- The characters' hands pass through the counter fixed
