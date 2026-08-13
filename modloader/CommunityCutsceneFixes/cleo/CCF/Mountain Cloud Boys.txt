@@ -1,0 +1,258 @@
+// By Cleoude
+{$CLEO .cs} 
+{$USE CLEO+}  
+{$USE CLEO}  
+{$USE ini}
+{$USE file}
+{$USE NewOpcodes}  
+
+//-------------MAIN---------------
+thread "MCBFix" 
+
+// Her bir ped için "Deðiþtirildi" bayraklarýný sýfýrlýyoruz.
+21@ = 0
+22@ = 0
+23@ = 0
+24@ = 0
+25@ = 0
+26@ = 0
+
+:WAIT_MISSION_START
+wait 1000
+if 
+$ONMISSION == 1
+then 
+    jump @INITIAL_LOADS
+end
+jump @WAIT_MISSION_START
+
+// --- AÞAMA 1: GÖREV BAÞI VE ÖN YÜKLEME ---
+:INITIAL_LOADS
+wait 0
+if 
+$ONMISSION == 0
+then 
+    jump @CLEANUP_AND_EXIT 
+end
+
+// Mafia modellerini oyunda takýlma (stutter) yapmasýn diye baþtan yüklüyoruz.
+Model.Load(#MAFFA)
+Model.Load(#MAFFB)
+Model.Load(#MAFBOSS) 
+038B: load_requested_models
+
+jump @CONTINUOUS_SCAN_LOOP
+
+// --- AÞAMA 2: SÜREKLÝ TARAMA DÖNGÜSÜ ---
+:CONTINUOUS_SCAN_LOOP
+wait 0
+if 
+$ONMISSION == 0 
+then 
+    jump @CLEANUP_AND_EXIT 
+end
+
+// Eðer 6 adamýn 6'sý da mafyaya çevrildiyse taramayý komple durdur ve bekle!
+if and
+21@ == 1
+22@ == 1
+23@ == 1
+24@ == 1
+25@ == 1
+26@ == 1
+then
+    jump @WAIT_MISSION_END
+end
+
+// Optimizasyon: Sadece oyuncu o sokaðýn civarýndaysa tarama yap
+if 
+00FE: actor $PLAYER_ACTOR sphere 0 in_sphere -2178.0 700.0 52.0 radius 150.0 150.0 150.0
+jf @CONTINUOUS_SCAN_LOOP
+
+// 1. MAFFA - Koordinat: -2177.462, 698.151, 52.923
+if 
+21@ == 0 // Bu adam henüz deðiþtirilmediyse...
+then
+    if 
+    0AE1: 1@ = random_char_near_point -2177.462 698.151 52.923 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 1@
+        044B: actor 1@ on_foot // ZIRH: Sadece yaya/yerde olanlarý al, arabadakileri (Da Nang) es geç!
+        82F2: not actor 1@ model == #SPECIAL01 
+        then
+            if 
+            0248: model #MAFFA available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 1@ param2 #MAFFA
+                21@ = 1 // Ýþlem tamam, bu bloðu sonsuza kadar kapat!
+            end
+        end
+    end
+end
+
+// 2. MAFFB - Koordinat: -2182.442, 704.3199, 52.8984
+if 
+22@ == 0
+then
+    if 
+    0AE1: 2@ = random_char_near_point -2182.442 704.3199 52.8984 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 2@
+        044B: actor 2@ on_foot 
+        82F2: not actor 2@ model == #SPECIAL01
+        then
+            if 
+            0248: model #MAFFB available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 2@ param2 #MAFFB
+                22@ = 1
+            end
+        end
+    end
+end
+
+// 3. MAFFA - Koordinat: -2176.552, 702.9572, 52.8984
+if 
+23@ == 0
+then
+    if 
+    0AE1: 3@ = random_char_near_point -2176.552 702.9572 52.8984 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 3@
+        044B: actor 3@ on_foot 
+        82F2: not actor 3@ model == #SPECIAL01
+        then
+            if 
+            0248: model #MAFFA available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 3@ param2 #MAFFA
+                23@ = 1
+            end
+        end
+    end
+end
+
+// 4. MAFFB - Koordinat: -2178.468, 707.6988, 52.8971
+if 
+24@ == 0
+then
+    if 
+    0AE1: 4@ = random_char_near_point -2178.468 707.6988 52.8971 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 4@
+        044B: actor 4@ on_foot 
+        82F2: not actor 4@ model == #SPECIAL01
+        then
+            if 
+            0248: model #MAFFB available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 4@ param2 #MAFFB
+                24@ = 1
+            end
+        end
+    end
+end
+
+// 5. MAFBOSS - Koordinat: -2180.265, 712.9368, 52.905
+if 
+25@ == 0
+then
+    if 
+    0AE1: 5@ = random_char_near_point -2180.265 712.9368 52.905 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 5@
+        044B: actor 5@ on_foot 
+        82F2: not actor 5@ model == #SPECIAL01
+        then
+            if 
+            0248: model #MAFBOSS available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 5@ param2 #MAFBOSS
+                25@ = 1
+            end
+        end
+    end
+end
+
+// 6. MAFFA (Oynanýþ Yedeði) - Koordinat: -2177.946, 670.3361, 50.8814
+if 
+26@ == 0
+then
+    if 
+    0AE1: 6@ = random_char_near_point -2177.946 670.3361 50.8814 in_radius 2.0 find_next 0 pass_deads 0
+    then
+        if and 
+        803C: not $PLAYER_ACTOR == 6@
+        044B: actor 6@ on_foot 
+        82F2: not actor 6@ model == #SPECIAL01
+        then
+            if 
+            0248: model #MAFFA available
+            then
+                0AB1: cleo_call @ChangePedModel params 2 param1 6@ param2 #MAFFA
+                26@ = 1
+            end
+        end
+    end
+end
+
+jump @CONTINUOUS_SCAN_LOOP
+
+// --- AÞAMA 4: GÖREV SONU BEKLEME (TÜM ADAMLAR DEÐÝÞTÝKTEN SONRA) ---
+:WAIT_MISSION_END
+wait 0
+if 
+$ONMISSION == 1
+then 
+    jump @WAIT_MISSION_END
+end
+
+// --- AÞAMA 5: ÇIKIÞ VE TEMÝZLÝK ---
+:CLEANUP_AND_EXIT
+if 
+Model.Available(#MAFFA)
+then
+    Model.Destroy(#MAFFA)
+end
+
+if 
+Model.Available(#MAFFB)
+then
+    Model.Destroy(#MAFFB)
+end
+
+if 
+Model.Available(#MAFBOSS)
+then
+    Model.Destroy(#MAFBOSS)
+end
+
+wait 1000
+0A93: terminate_this_custom_script
+
+// --- FONKSÝYON: BELLEK HACK (MODEL DEÐÝÞTÝRME) ---
+:ChangePedModel
+// 0@ - actorHandle; 1@ - newModelID
+if 
+0248: model 1@ available       
+then    
+    0A96: 0@ = actor 0@ struct 
+    0A8E: 2@ = 0@ + 0x4D4   
+    0A8D: 3@ = read_memory 0@ size 4 virtual_protect 0
+    0A8D: 4@ = read_memory 2@ size 4 virtual_protect 0 
+    0A8E: 5@ = 3@ + 0x20    
+    0A8D: 5@ = read_memory 5@ size 4 virtual_protect 0
+    0AA6: call_method 5@ struct 0@ num_params 0 pop 0  
+    0A8E: 6@ = 0@ + 0x22    
+    0A8C: write_memory 6@ size 2 value -1 virtual_protect 0 
+    0A8E: 7@ = 3@ + 0x14    
+    0A8D: 7@ = read_memory 7@ size 4 virtual_protect 0  
+    0AA6: call_method 7@ struct 0@ num_params 1 pop 0 1@ 
+    0A8C: write_memory 2@ size 4 value 4@ virtual_protect 0 
+end
+0AB2: cleo_return 0
