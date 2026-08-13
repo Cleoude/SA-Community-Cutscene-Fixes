@@ -127,6 +127,7 @@ Elmar Muradov
 - Rosenberg
 - Parrot
 - Sindacco with tracksuit & neck brace
+- Salvatore
 
 **deadman23**
 - Cutscene Peds
@@ -190,6 +191,7 @@ Elmar Muradov
 - Sindacco Member
 - Forellis
 - Madd Dogg2
+- Hanged Paul and Maccer
 
 **Antonín Šimara**
 - Gangs & Characters
@@ -241,7 +243,7 @@ Elmar Muradov
 - Kane
 - Balman
 - Balgrd
-- New Cigar Model
+- New Cigar Models
 
 **endochronic**
 - CRASH Redesigned

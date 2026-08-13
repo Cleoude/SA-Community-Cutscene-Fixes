@@ -1009,3 +1009,16 @@
 - Zero's hand going through the hat fixed
 - Zero's arm going through the hat fixed
 - The characters' hands pass through the counter fixed
+
+# Freefall
+- Maccer and Paul's clothes are sagging down, and their faces are turning red
+- Door and Camera Position fixed
+- Salvatore’s look changed
+- Salvatore is holding a cigar
+- Cigar has smoke effect
+- Ashtray added on the table
+- Chair changed
+- CJ appears in first cutscene now
+- Maria added to second cutscene
+- Ken’s position fixed
+- CJ opens the door
