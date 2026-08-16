@@ -403,7 +403,7 @@
 
 # Just Business
 - Fixed floating of peds sitting on the chair
-- Yellow Ramp Prelight fixed
+- Rochelle added 
 - Subtitle fixed
 
 # Management Issues Cutscene
@@ -955,7 +955,7 @@
 - Dogg holds whiskey
 - Bottle Movement sounds added
 - Croupiers added to roof in game
-- Madd dogg has neck brace and trolley when cj brought to hospital
+- Madd dogg has neck brace, blood and trolley when cj brought to hospital
 
 # Fish In Barrel
 - Woozie has new outfit in LV Missions
@@ -1022,3 +1022,17 @@
 - Maria added to second cutscene
 - Ken’s position fixed
 - CJ opens the door
+
+# Misappropriation
+- CRASH has new outfits in LV/Desert Missions
+- Pulaski puts a few briquettes on the barbecue
+- The issue with Pulaski’s hands crossing over fixed
+- The issue of Pulaski’s hands passing through the barbecue fixed
+- A new model of Dippo lighter fluid added
+- Liquid effect added to lighter fluid
+- CJ's position fixed and tenpenny punches cj correctly
+- Smoke effect added on barbecue
+- the bag of briquettes is open at the top now
+- DEA Agent added
+- DEA Agent has MP5 now
+- FBI has M4 now

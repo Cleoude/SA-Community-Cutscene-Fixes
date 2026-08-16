@@ -128,6 +128,7 @@ Elmar Muradov
 - Parrot
 - Sindacco with tracksuit & neck brace
 - Salvatore
+- DEA
 
 **deadman23**
 - Cutscene Peds
@@ -168,6 +169,7 @@ Elmar Muradov
 - Sentinel XS
 - Wheelchair :trollface:
 - Heist Cutscene Objects
+- Briquettes
 
 **Zacary_08**
 - Mobile Hands Support
@@ -186,6 +188,7 @@ Elmar Muradov
 - Forellis
 - Forellis with medic uniform
 - Sindacco Member
+- Rochelle
 
 **nvbsl**
 - Sindacco Member
@@ -206,6 +209,7 @@ Elmar Muradov
 - Detectives
 - Better Peds Vary
 - Desert Truth
+- CRASH New Outfits
 
 **Sergiu**
 - Voice AI
@@ -296,7 +300,7 @@ Elmar Muradov
 # Big Thanks to:
 
 **ViperJohnGR**
-- ModelVariations (forked)
+- ModelVariations 
 
 **Jack**
 - Change NPC Model Support
