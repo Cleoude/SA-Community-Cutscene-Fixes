@@ -23,7 +23,7 @@ Elmar Muradov
 - Fastman92 Limit Adjuster
 - Open Limit Adjuster
 - Effect Loader
-- ModelVariations (Forked For CCF)
+- ModelVariations
 - Skygfx (For Cutscene Object Prelights)
 - Mobile Hands (Extras Optional)
 
@@ -170,6 +170,7 @@ Elmar Muradov
 - Wheelchair :trollface:
 - Heist Cutscene Objects
 - Briquettes
+- Dippo Lighter Fluid
 
 **Zacary_08**
 - Mobile Hands Support
