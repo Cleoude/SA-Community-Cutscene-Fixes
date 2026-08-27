@@ -39,6 +39,8 @@ Elmar Muradov
 ### Download: [NewOpcodes](https://drive.google.com/file/d/1YLZFEBFpPohlAqZmWFq5DSpUxIkD42Lz/view?usp=sharing)
 ### Download: [Open Limit Adjuster](https://github.com/GTAmodding/III.VC.SA.LimitAdjuster/releases)
 ### Download: [Modloader](https://github.com/thelink2012/modloader/releases/tag/v0.3.7)
+### Download: [Model Variations](https://github.com/ViperJohnGR/ModelVariations)
+> Only drag ModelVariations.asi to scripts folder!
 
 # Recommended:
 
@@ -98,7 +100,9 @@ Elmar Muradov
 - Broom
 - Parrot Rig & UV
 - Heist Map Love Fist Texture
-- Benny 
+- Benny
+- Dossier
+- Shovel 
 
 **brooklynzsmac**
 - Stewardess
@@ -129,6 +133,7 @@ Elmar Muradov
 - Sindacco with tracksuit & neck brace
 - Salvatore
 - DEA
+- Wounded Pulaski & Hernandez
 
 **deadman23**
 - Cutscene Peds
@@ -291,6 +296,8 @@ Elmar Muradov
 
 **Arturo Casasnovas**
 - Eat Burger Anim
+- Hernandez's Fall Anim 
+- Pulaski's Injured anim
 
 **SlingShot753**
 - Artwork Families Member
@@ -312,3 +319,6 @@ Elmar Muradov
 
 **Almico(LPP)**
 - LPP
+
+**1DERER**
+- High Noon Mission Music

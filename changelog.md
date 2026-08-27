@@ -1036,3 +1036,33 @@
 - DEA Agent added
 - DEA Agent has MP5 now
 - FBI has M4 now
+
+# High Noon
+- CJ’s colliding with dossier fixed
+- Pulaski is holding steering wheel correctly
+- CRASH has unmarked police car outside LS
+- CRASH has new outfits in LV/Desert Missions
+- Dossier model improved
+- Shovel Improved
+- Blood effect and scar added on Hernandez when Tenpenny knocks him down.
+- Blood added to the shovel
+- Tenpenny is hitting correctly
+- Tenpenny is driving the car towards the dirt track
+- Pulaski uses Desert Eagle instead of Pistol
+- Pulaski's targeting CJ fixed.
+- Sand effects added while CJ is digging grave.
+- Hernandez's forehead is bleeding more than in the previous scene.
+- Blood muzzleflash, gunflash and grunt sound added in Pulaski's shoot Hernandez moment. 
+- Fixed Hernandez falling animation into grave.
+- CJ and Pulaski are looking hernandez’s dead body
+- Mission Music Added
+- Chasing scenario changes completely. Pulaski flees from you on foot. He will steal a vehicle or seek help from the police forces. Also you get wanted level if there are police around. Disable if you want to continue with the nasty scenario or if you like white buffalo.
+- Pulaski's health and weapon accuracy have been reduced and can be change with ini file.
+- Pulaski performs drive-by while he is in passengerseat.(Cop Scenario Only)
+- When Pulaski down, he performs animation of being shot.
+- Pulaski is covered in blood after being knocked down.
+- New injury animation added after Pulaski is down.
+- Pulaski dies in agony after CJ kicks Pulaski.
+- Hernandez's dead body added to grave.
+- Mission music plays at the level of the radio volume. If radio station changes in the vehicle, music will no longer play until you turn off the radio.
+- You can interact Pulaski's dead body after he is dead.
