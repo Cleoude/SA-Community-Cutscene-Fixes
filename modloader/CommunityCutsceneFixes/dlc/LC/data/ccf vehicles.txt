@@ -1,0 +1,11 @@
+#vehicles.ide
+14015,     vc_sentxs,     vc_sentxs,     car,         SENTINEL,     SENTXS,     null,    richfamily,     10,     0,    0,        -1, 0.7, 0.7,        0
+14016, 	     lc_taxi, 		lc_taxi, 	 car, 		      TAXI, 	  TAXI, 	null,	      taxi,		 10, 	 0,	1f10,		 -1, 0.7, 0.7,		  0
+
+#carmods.dat
+vc_sentxs, exh_b_l, exh_b_m, exh_b_t, exh_b_ts, nto_b_l, nto_b_s, nto_b_tw
+lc_taxi, bnt_b_sc_l, bnt_b_sc_m, exh_b_m, exh_b_t, nto_b_l, nto_b_s, nto_b_tw, spl_b_bab_m, spl_b_mab_m
+
+#carcols.dat
+vc_sentxs, 2,1, 28,1, 36,1, 21,1, 30,1, 51,1, 46,1, 74,1
+lc_taxi, 6,6

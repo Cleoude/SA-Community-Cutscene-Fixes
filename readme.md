@@ -102,7 +102,10 @@ Elmar Muradov
 - Heist Map Love Fist Texture
 - Benny
 - Dossier
-- Shovel 
+- Shovel
+- Maria
+- Throwing Knife
+- LC Peds 
 
 **brooklynzsmac**
 - Stewardess
@@ -134,6 +137,8 @@ Elmar Muradov
 - Salvatore
 - DEA
 - Wounded Pulaski & Hernandez
+- Salvatore2
+- Indian Driver
 
 **deadman23**
 - Cutscene Peds
@@ -176,6 +181,7 @@ Elmar Muradov
 - Heist Cutscene Objects
 - Briquettes
 - Dippo Lighter Fluid
+- LC Taxi
 
 **Zacary_08**
 - Mobile Hands Support
@@ -195,6 +201,7 @@ Elmar Muradov
 - Forellis with medic uniform
 - Sindacco Member
 - Rochelle
+- Marco Forelli
 
 **nvbsl**
 - Sindacco Member
@@ -313,6 +320,9 @@ Elmar Muradov
 **Jack**
 - Change NPC Model Support
 
+**Flentric**
+- Country Motor Cops
+
 **LC01**
 - LC01 Claude
 - Duffel bag
@@ -322,3 +332,6 @@ Elmar Muradov
 
 **1DERER**
 - High Noon Mission Music
+
+**Spartan 112**
+- VC Sentinel XS
