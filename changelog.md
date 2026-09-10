@@ -1067,18 +1067,10 @@
 - Mission music plays at the level of the radio volume. If radio station changes in the vehicle, music will no longer play until you turn off the radio.
 - You can interact Pulaski's dead body after he is dead.
 
-# Saint Mark's Bistro
-- Salvatore and Maria have some new outfits (also extras)
-- Throwing knife improved
-- Knife animation fixed
-- Manacle position fixed
-- Couch added
-- Door fixed
-- Tony the parrot added to scene
-- Salvatore’s crossing arms animation fixed
-- Knife is on the table now
-- CJ’s hand removed from the scene
-- Unused dialogues restored.
-- Marco Forelli has new outfit.
-- Lines added for Marco Forelli.
-- LC Peds/Vehicles added in Liberty City.
+# Supply Lines...
+- The issue with CJ's arm passing through the shelf fixed
+- CJ’s position and his teleport fixed
+- Zero’s wardrobe fixed
+- CJ and Zero’s position fixed
+- Zero’s mouth didn’t move during his last line fixed
+- Male01 replaced with hippies
