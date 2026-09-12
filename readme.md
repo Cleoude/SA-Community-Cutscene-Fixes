@@ -105,7 +105,8 @@ Elmar Muradov
 - Shovel
 - Maria
 - Throwing Knife
-- LC Peds 
+- LC Peds
+- Army Zero 
 
 **brooklynzsmac**
 - Stewardess

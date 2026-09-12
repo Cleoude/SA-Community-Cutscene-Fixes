@@ -1074,3 +1074,7 @@
 - CJ and Zero’s position fixed
 - Zero’s mouth didn’t move during his last line fixed
 - Male01 replaced with hippies
+
+# New Model Army
+- Zero has new outfit in this mission
+- CJ and Zero’s height position fixed
