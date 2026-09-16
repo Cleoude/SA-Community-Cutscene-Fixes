@@ -1078,3 +1078,11 @@
 # New Model Army
 - Zero has new outfit in this mission
 - CJ and Zero’s height position fixed
+
+# Up, Up and Away!
+- Heist Map Improved
+- Woozie has new outfit in LV Missions
+- Door Position fixed
+- Zero has new outfit in LV Missions
+- Triads swapped
+- Zero’s hand animation fixed

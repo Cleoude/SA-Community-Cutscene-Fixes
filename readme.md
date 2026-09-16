@@ -106,7 +106,8 @@ Elmar Muradov
 - Maria
 - Throwing Knife
 - LC Peds
-- Army Zero 
+- Army Zero
+- Casual Zero 
 
 **brooklynzsmac**
 - Stewardess
@@ -267,6 +268,10 @@ Elmar Muradov
 - CRASH Redesigned
 - New Cesar Outfit Model Base
 - Kendl Redesigned
+- Zero Redesigned body
+
+**𝙴𝙽𝙹´𝚂 𝙵𝙰𝙼**
+- Zero's Head 
 
 **Matt1010**
 - Artwork Smoke
