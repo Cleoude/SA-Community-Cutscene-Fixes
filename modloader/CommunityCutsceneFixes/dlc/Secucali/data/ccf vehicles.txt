@@ -1,0 +1,5 @@
+#vehicles.ide
+14017, 	secucali, 	secucali, 	car, 		SECURICA, 	SECURI, 	van,	big,	 	4, 	0,	3f10,		-1, 0.914, 0.914,	-1
+
+#carcols.dat
+secucali, 54,54

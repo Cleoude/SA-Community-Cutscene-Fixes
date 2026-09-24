@@ -1086,3 +1086,19 @@
 - Zero has new outfit in LV Missions
 - Triads swapped
 - Zero’s hand animation fixed
+
+# Breaking the Bank at Caligula's
+- Janitor and Zero swapped.
+- Zero has new outfit in LV Missions
+- Janitor and Woozie hold the doors correctly
+- Team wears security guard outfits.
+- Caligula’s Securicar added (CS and IG)
+- CJ’s hands fixed
+- Bodyguards changed to leones.
+- Leones wear suit in caligulas. (also as variation outside)
+- Team use nightvision goggles except woozie
+- Team's weapon accuracy increased except woozie
+- Dynamite added before explode the vault.
+- LVPD Police bikes added.
+- Janitor and Triad wear LVPD motor outfits. 
+- Punch and collapse sounds added when CJ hit Zee

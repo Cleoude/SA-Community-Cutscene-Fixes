@@ -107,7 +107,8 @@ Elmar Muradov
 - Throwing Knife
 - LC Peds
 - Army Zero
-- Casual Zero 
+- Casual Zero
+- IG Triad Security Guard 
 
 **brooklynzsmac**
 - Stewardess
@@ -184,6 +185,7 @@ Elmar Muradov
 - Briquettes
 - Dippo Lighter Fluid
 - LC Taxi
+- Caligula Securicar
 
 **Zacary_08**
 - Mobile Hands Support
@@ -210,6 +212,11 @@ Elmar Muradov
 - Forellis
 - Madd Dogg2
 - Hanged Paul and Maccer
+- Woozie Security Guard
+- Janitor Security Guard
+- Triads Security Guard
+- Janitor Cop
+- Triad Cop
 
 **Antonín Šimara**
 - Gangs & Characters
@@ -233,6 +240,7 @@ Elmar Muradov
 - Motorcycle Cops
 - Sindacco From Introduction
 - Texans
+- Suit Leones
 
 **RRT94**
 - Jethro & Dwayne Nametags
